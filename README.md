@@ -32,23 +32,7 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
    ```bash
    git clone https://github.com/your-username/two-way-bot.git
    cd two-way-bot
-
-
-
-
+   
 ---
 
-### 🎨 **Enhancement Tips**:
-1. **Add Visuals**:
-   - Record a demo using [ScreenToGif](https://www.screentogif.com/)
-   - Include architecture diagram from your presentation
 
-2. **Badges**:
-   - Add shields.io badges for Python/Flask versions
-   - Include CI/CD status if implemented
-
-3. **Documentation**:
-   - Link your project presentation PDF
-   - Add API documentation if developed
-
-Would you like me to help create a **Flask web interface** or suggest **deployment strategies** for this bot? 😊
