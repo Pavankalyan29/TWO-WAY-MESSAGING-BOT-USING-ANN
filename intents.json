@@ -1,0 +1,2937 @@
+{
+  "intents": 
+  [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hey",
+        "hello",
+        "how are you",
+        "is anyone there?",
+        "greetings"
+      ],
+      "responses": [ 
+        "Hey! How can I assist you today?", 
+        "Hello! What can I do for you?",
+        "Hi there! How may I help you?",
+        "Hello, how are you doing today?",
+        "Hi! Is there anything specific you would like to know?"
+      ]
+    }, 
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "goodbye",
+        "bye",
+        "thank you",
+        "see you later",
+        "farewell"
+      ],
+      "responses": [
+        "Goodbye! If you have more questions, feel free to ask.",
+        "Farewell! If you need assistance in the future, don't hesitate to reach out.",
+        "Thank you! If there's anything else you'd like to know, I'm here to help.",
+        "See you later! Feel free to return anytime you have more inquiries.",
+        "You are most welcome! Visit again if you have more queries or need information."
+      ]
+    },
+    {
+      "tag": "ngit_overview",
+      "patterns": [
+        "Neil Gogte Institute of Technology overview",
+        "NGIT establishment",
+        "History of NGIT",
+        "NGIT overview",
+        "Neil Gogte Institute of Technology",
+        "NGIT",
+        "About Keshav Memorial Technical Educational Society"
+      ],
+      "responses": [
+        "The Neil Gogte Institute of Technology was established in 2017 under the aegis of Keshav Memorial Technical Educational Society, Hyderabad. The society was founded by like-minded individuals with diverse backgrounds, united by their concern for the quality of technical education in India and their commitment to its improvement.NGIT is known for its modern facilities, dedicated faculty, and academic excellence. The institute offers undergraduate programs, including a specialized course in Artificial Intelligence and Machine Learning."
+      ]
+    },
+    {
+      "tag": "ngit_founder",
+      "patterns": [
+        "Founder of NGIT",
+        "Chairman of NGIT",
+        "who is Neil sir.?",
+        "Neil Gogte background",
+        "Sri. Neil Gogte"
+      ],
+      "responses": [
+        "The Chairman, Sri. Neil Gogte, has over 30 years of experience in software training and development. His vision is to impart industry-relevant technical skills to students, enabling them to secure employment in the software industry. Sri. Neil Gogte is the driving force behind the establishment of NGIT."
+      ]
+    },
+    {
+      "tag": "ngit_growth",
+      "patterns": [
+        "NGIT growth",
+        "Progress of Neil Gogte Institute of Technology",
+        "NGIT achievements"
+      ],
+      "responses": [
+        "In just four years since its inception, NGIT has been successful in attracting software giants like Microsoft, SAP, SalesForce, Amazon, etc., to the campus. Around 23 companies visited the campus for placements, recruiting a substantial number of students from the first outgoing batch. Currently, more than 100 companies actively recruit from NGIT."
+      ]
+    },
+    {
+      "tag": "ngit_recruitment",
+      "patterns": [
+        "NGIT recruitment process",
+        "How companies recruit from NGIT",
+        "Placement process at NGIT"
+      ],
+      "responses": [
+        "Companies like Microsoft, SAP, SalesForce, Amazon, etc., actively participate in the recruitment process at NGIT. The institute has a robust placement process that has resulted in successful placements for a significant number of students."
+      ]
+    },
+    {
+      "tag": "ngit_companies",
+      "patterns": [
+        "Software giants at NGIT",
+        "Companies collaborating with NGIT",
+        "NGIT industry partnerships"
+      ],
+      "responses": [
+        "NGIT has been able to attract industry leaders such as Microsoft, SAP, SalesForce, Amazon, etc. These companies actively participate in campus placements, showcasing the institute's strong industry connections."
+      ]
+    },
+    {
+      "tag": "ngit_batch",
+      "patterns": [
+        "NGIT first outgoing batch",
+        "Student recruitment in the initial years",
+        "NGIT early student placements"
+      ],
+      "responses": [
+        "In the first outgoing batch, around 23 companies visited the NGIT campus and recruited a substantial number of students. This early success in placements laid the foundation for the institute's reputation in the industry."
+      ]
+    },
+    {
+      "tag": "ngit_current_recruitment",
+      "patterns": [
+        "Current companies recruiting at NGIT",
+        "NGIT ongoing placements",
+        "Present recruitment scenario at NGIT"
+      ],
+      "responses": [
+        "At present, more than 100 companies actively recruit students from NGIT, showcasing the institute's continued success in providing skilled graduates to the industry. The ongoing placements highlight the trust companies place in NGIT graduates."
+      ]
+    },
+    {
+      "tag": "ngit_quality_education",
+      "patterns": [
+        "NGIT commitment to quality education",
+        "Educational standards at NGIT",
+        "Quality of technical education at NGIT"
+      ],
+      "responses": [
+        "NGIT is committed to improving the quality of technical education in India. The institute, under the Keshav Memorial Technical Educational Society, aims to provide high-quality education and contribute to the overall enhancement of technical education standards in the country."
+      ]
+    },
+    {
+      "tag": "ngit_environment",
+      "patterns": [
+        "Academic environment at NGIT",
+        "NGIT learning atmosphere",
+        "Educational climate at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "NGIT offers an ideal academic environment for students with modern facilities, stunning green surroundings, and state-of-the-art infrastructure. The institute fosters an atmosphere conducive to academic excellence and overall growth."
+      ]
+    },
+    {
+      "tag": "ngit_industry_relevance",
+      "patterns": [
+        "Industry relevance at NGIT",
+        "NGIT industry-oriented curriculum",
+        "Alignment with software industry needs"
+      ],
+      "responses": [
+        "NGIT's vision is to impart industry-relevant technical skills to students. The institute achieves this through a curriculum that aligns with the needs of the software industry. NGIT strives to produce graduates well-prepared for the demands of the industry."
+      ]
+    },
+    {
+      "tag": "ngit_community",
+      "patterns": [
+        "NGIT community",
+        "NGIT student community",
+        "Community involvement at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "NGIT boasts a diverse student community, brought together by a shared passion for technical education. The institute encourages community involvement and provides a platform for students with different backgrounds to collaborate and learn together."
+      ]
+    },
+    {
+      "tag": "ngit_facilities",
+      "patterns": [
+        "NGIT facilities",
+        "Infrastructure at NGIT",
+        "NGIT modern amenities"
+      ],
+      "responses": [
+        "NGIT is equipped with modern facilities and state-of-the-art infrastructure. The institute provides students with a conducive learning environment, fostering academic excellence and overall growth."
+      ]
+    },
+    {
+      "tag": "ngit_success_stories",
+      "patterns": [
+        "NGIT success stories",
+        "Notable achievements of NGIT alumni",
+        "NGIT alumni success in the software industry"
+      ],
+      "responses": [
+        "NGIT takes pride in its alumni, who have achieved notable success in the software industry. The success stories of NGIT graduates serve as inspiration for current students, showcasing the institute's impact on the professional journeys of its alumni."
+      ]
+    },
+    {
+      "tag": "ngit_technical_field",
+      "patterns": [
+        "NGIT in the technical field",
+        "NGIT technical education focus",
+        "Technical education at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "NGIT plays a significant role in the technical field by focusing on providing high-quality technical education. The institute's commitment to the betterment of technical education in India reflects in its efforts to prepare students for successful careers in the ever-evolving field of technology."
+      ]
+    },
+    {
+      "tag": "ngit_technical_education",
+      "patterns": [
+        "NGIT commitment to technical education",
+        "Technical education standards at NGIT",
+        "NGIT role in advancing technical education"
+      ],
+      "responses": [
+        "NGIT is dedicated to advancing technical education standards. The institute, under the Keshav Memorial Technical Educational Society, strives to contribute to the overall improvement of technical education in India."
+      ]
+    },
+    {
+      "tag":"uniqueness",
+      "patterns":[
+        "uniqueness of NGIT",
+        "Speciality of ngit",
+        "why is ngit different from other institutes",
+        "what makes ngit different from other colleges",
+        "what makes ngit unique",
+        "Initiatives at NGIT"
+      ],
+      "responses":[
+        "NGIT has a wide range of well-prepared technological advancements such as for academics NGIT has excellent faculty and infrastructure along with that for industry standards NGIT has excellent initiatives such as project school,fondation school,finishing school,pre-finishing school niranthar finishing school and much more.",
+        "NGIT has initiatives such as project school,fondation school,finishing school,pre-finishing school,niranthar finishing school and much more."
+      ]
+
+    },
+    {
+      "tag": "ngit_technology",
+      "patterns": [
+        "NGIT and technology",
+        "Technological advancements at NGIT",
+        "NGIT role in technological progress"
+      ],
+      "responses": [
+        "NGIT embraces technological advancements, ensuring that students are well-prepared for the dynamic landscape of the software industry. The institute plays a crucial role in driving technological progress through its curriculum and educational initiatives."
+      ]
+    },
+    {
+      "tag": "ngit_learning_environment",
+      "patterns": [
+        "NGIT learning environment",
+        "Educational atmosphere at NGIT",
+        "NGIT focus on a conducive learning environment"
+      ],
+      "responses": [
+        "NGIT provides a conducive learning environment with modern facilities, green surroundings, and state-of-the-art infrastructure. The institute is dedicated to fostering an atmosphere that promotes academic excellence and overall growth among its students."
+      ]
+    },
+    {
+      "tag": "ngit_student_achievements",
+      "patterns": [
+        "NGIT student achievements",
+        "Notable accomplishments of NGIT students",
+        "NGIT student success stories"
+      ],
+      "responses": [
+        "NGIT students have achieved notable success, both academically and professionally. The institute takes pride in the accomplishments of its students, showcasing the impact of NGIT's commitment to providing high-quality education and industry-relevant skills."
+      ]
+    },
+    {
+      "tag": "ngit_student_recruitment",
+      "patterns": [
+        "NGIT student recruitment",
+        "How companies recruit NGIT students",
+        "Placement process for NGIT students"
+      ],
+      "responses": [
+        "Companies like Microsoft, SAP, SalesForce, Amazon, etc., actively participate in the recruitment of NGIT students. The institute's strong industry connections and effective placement process contribute to the successful recruitment of its students by leading companies."
+      ]
+    },
+    {
+      "tag": "ngit_academic_excellence",
+      "patterns": [
+        "NGIT academic excellence",
+        "Academic achievements at NGIT",
+        "NGIT focus on academic success"
+      ],
+      "responses": [
+        "NGIT places a strong emphasis on academic excellence. The institute's commitment to providing high-quality education reflects in the academic achievements of its students and their success in various academic endeavors."
+      ]
+    },
+    {
+      "tag": "ngit_industry_connections",
+      "patterns": [
+        "NGIT industry connections",
+        "NGIT collaborations with industry",
+        "Industry partnerships at NGIT"
+      ],
+      "responses": [
+        "NGIT has strong connections with the industry, evident in collaborations with leading companies like Microsoft, SAP, SalesForce, Amazon, etc. The institute's industry partnerships contribute to the success of its students in securing placements with renowned organizations."
+      ]
+    },
+    {
+      "tag": "ngit_innovation",
+      "patterns": [
+        "NGIT innovation",
+        "Innovative practices at NGIT",
+        "NGIT role in fostering innovation"
+      ],
+      "responses": [
+        "NGIT fosters innovation through its curriculum and educational practices. The institute encourages students to think creatively and stay abreast of technological advancements, contributing to a culture of innovation within the NGIT community."
+      ]
+    },
+    {
+      "tag": "ngit_vision_statement",
+      "patterns": [
+        "NGIT vision statement",
+        "Vision of Neil Gogte Institute of Technology",
+        "NGIT future goals"
+      ],
+      "responses": [
+        "NGIT aspires to be a leader in producing industry-ready and globally competent engineers, aiming to make India a world leader in software products and services."
+      ]
+    },
+    {
+      "tag": "ngit_leadership",
+      "patterns": [
+        "Leadership at NGIT",
+        "NGIT leadership goals",
+        "Role of NGIT in producing industry leaders"
+      ],
+      "responses": [
+        "NGIT envisions producing leaders in the field of engineering, with a focus on industry readiness and global competence. The institute aims to play a crucial role in shaping leaders who can contribute to making India a world leader in software products and services."
+      ]
+    },
+    {
+      "tag": "ngit_engineering",
+      "patterns": [
+        "NGIT engineering excellence",
+        "Engineering goals of NGIT",
+        "NGIT role in promoting engineering excellence"
+      ],
+      "responses": [
+        "NGIT is committed to fostering engineering excellence among its students. The institute strives to provide a comprehensive education that prepares students to excel in the engineering field and contribute to the development of software products and services."
+      ]
+    },
+    {
+      "tag": "ngit_global_competence",
+      "patterns": [
+        "Global competence at NGIT",
+        "NGIT global engineering standards",
+        "NGIT role in creating globally competent engineers"
+      ],
+      "responses": [
+        "NGIT aims to create globally competent engineers by setting high standards in engineering education. The institute believes in preparing students to meet the challenges of the global software industry, contributing to India's leadership in software products and services worldwide."
+      ]
+    },
+    {
+      "tag": "ngit_industry_readiness",
+      "patterns": [
+        "NGIT industry readiness",
+        "Preparation for industry at NGIT",
+        "NGIT role in producing industry-ready engineers"
+      ],
+      "responses": [
+        "NGIT is dedicated to ensuring that its graduates are industry-ready. The institute focuses on providing practical skills and knowledge that align with the demands of the software industry, contributing to the professional success of its students."
+      ]
+    },
+    {
+      "tag": "ngit_global_leader",
+      "patterns": [
+        "NGIT as a global leader",
+        "NGIT contribution to global leadership",
+        "NGIT role in making India a world leader"
+      ],
+      "responses": [
+        "NGIT envisions playing a significant role in making India a world leader in software products and services. The institute believes that by producing globally competent engineers, it can contribute to India's leadership in the global software industry."
+      ]
+    },
+    {
+      "tag": "ngit_engineering_education",
+      "patterns": [
+        "NGIT engineering education",
+        "Quality of engineering education at NGIT",
+        "NGIT commitment to excellence in education"
+      ],
+      "responses": [
+        "NGIT is committed to providing high-quality engineering education. The institute aims to excel in delivering an education that not only meets industry standards but also prepares students to excel in the global engineering landscape."
+      ]
+    },
+    {
+      "tag": "ngit_software_industry",
+      "patterns": [
+        "NGIT in the software industry",
+        "NGIT impact on the software industry",
+        "NGIT contribution to software products and services"
+      ],
+      "responses": [
+        "NGIT aims to have a significant impact on the software industry by producing engineers who can contribute to the development of software products and services. The institute envisions its graduates playing a crucial role in shaping the future of the software industry."
+      ]
+    },
+    {
+      "tag": "ngit_technology_leaders",
+      "patterns": [
+        "NGIT technology leaders",
+        "NGIT role in producing technology leaders",
+        "NGIT contribution to technology leadership"
+      ],
+      "responses": [
+        "NGIT aims to produce technology leaders who can make significant contributions to the field. The institute envisions its graduates leading advancements in technology and becoming influential figures in the software industry."
+      ]
+    },
+    {
+      "tag": "ngit_global_engineers",
+      "patterns": [
+        "NGIT global engineers",
+        "NGIT goal of creating global engineers",
+        "NGIT contribution to global engineering"
+      ],
+      "responses": [
+        "NGIT aims to create engineers with a global perspective, ready to tackle challenges on an international scale. The institute believes in fostering a mindset that prepares students to excel in the global engineering arena."
+      ]
+    },
+    {
+      "tag": "ngit_software_services",
+      "patterns": [
+        "NGIT in software services",
+        "NGIT contribution to software services",
+        "Role of NGIT in software services industry"
+      ],
+      "responses": [
+        "NGIT envisions playing a pivotal role in the software services industry. The institute aims to contribute significantly to the development and enhancement of software services, further establishing India as a leader in the global software market."
+      ]
+    },
+    {
+      "tag": "ngit_engineering_leadership",
+      "patterns": [
+        "NGIT engineering leadership",
+        "Leadership goals in engineering at NGIT",
+        "NGIT contribution to engineering leadership"
+      ],
+      "responses": [
+        "NGIT strives to develop engineering leaders who can lead and inspire in the field. The institute is committed to instilling leadership qualities in its students, preparing them to take on leadership roles in the software engineering domain."
+      ]
+    },
+    {
+      "tag": "ngit_global_standards",
+      "patterns": [
+        "NGIT global standards",
+        "NGIT adherence to global education standards",
+        "NGIT commitment to global excellence"
+      ],
+      "responses": [
+        "NGIT is committed to adhering to global education standards, ensuring that its students receive an education that meets international benchmarks. The institute aims to set and maintain high global standards in engineering education."
+      ]
+    },
+    {
+      "tag": "ngit_engineering_development",
+      "patterns": [
+        "NGIT engineering development",
+        "Development goals in engineering at NGIT",
+        "NGIT role in engineering advancements"
+      ],
+      "responses": [
+        "NGIT aims to contribute to the development of engineering by preparing students for advancements in the field. The institute believes that by nurturing innovative thinking, it can play a vital role in shaping the future of engineering."
+      ]
+    },
+    {
+      "tag": "ngit_innovation_culture",
+      "patterns": [
+        "NGIT innovation culture",
+        "NGIT fostering innovation",
+        "NGIT role in promoting an innovative culture"
+      ],
+      "responses": [
+        "NGIT fosters innovation through its curriculum and educational practices. The institute encourages students to think creatively and stay abreast of technological advancements, contributing to a culture of innovation within the NGIT community."
+      ]
+    },
+    {
+      "tag": "ngit_global_impact",
+      "patterns": [
+        "NGIT global impact",
+        "NGIT contribution to global impact",
+        "NGIT role in making a global difference"
+      ],
+      "responses": [
+        "NGIT aspires to make a global impact by producing graduates who can contribute significantly to the field of engineering. The institute envisions its students making a difference on a global scale and leaving a lasting impact on the software industry."
+      ]
+    },
+    {
+      "tag": "ngit_career_success",
+      "patterns": [
+        "NGIT career success",
+        "NGIT role in ensuring career success",
+        "Career preparation at NGIT"
+      ],
+      "responses": [
+        "NGIT is dedicated to ensuring the career success of its graduates. The institute focuses on providing industry-relevant skills and knowledge, preparing students for successful and fulfilling careers in the software engineering domain."
+      ]
+    },
+    {
+      "tag": "ngit_global_talent",
+      "patterns": [
+        "NGIT global talent",
+        "NGIT contribution to global talent pool",
+        "Role of NGIT in shaping global talent"
+      ],
+      "responses": [
+        "NGIT aims to contribute to the global talent pool by producing graduates with exceptional skills and knowledge. The institute envisions its students being recognized as valuable contributors to the global talent pool in the software engineering industry."
+      ]
+    },
+    {
+      "tag": "ngit_collaborations",
+      "patterns": [
+        "NGIT collaborations",
+        "NGIT industry collaborations",
+        "Collaborations for global excellence at NGIT"
+      ],
+      "responses": [
+        "NGIT actively seeks collaborations with industry leaders to ensure global excellence in engineering education. The institute believes that strong collaborations contribute to the overall development and success of its students in the global software industry."
+      ]
+    },
+    {
+      "tag": "ngit_social_impact",
+      "patterns": [
+        "NGIT social impact",
+        "NGIT contribution to social development",
+        "NGIT role in making a social difference"
+      ],
+      "responses": [
+        "NGIT aspires to make a positive social impact by producing engineers who contribute to social development. The institute envisions its graduates making a difference in society through their innovative solutions and commitment to social responsibility."
+      ]
+    },
+    {
+      "tag": "ngit_student_community",
+      "patterns": [
+        "NGIT student community",
+        "NGIT student involvement",
+        "Community engagement at NGIT"
+      ],
+      "responses": [
+        "NGIT boasts a diverse student community, brought together by a shared passion for technical education. The institute encourages community involvement and provides a platform for students with different backgrounds to collaborate and learn together."
+      ]
+    },
+    {
+      "tag": "ngit_mentorship",
+      "patterns": [
+        "NGIT mentorship",
+        "NGIT mentorship programs",
+        "Role of mentorship at NGIT"
+      ],
+      "responses": [
+        "NGIT values mentorship as a crucial element in the development of its students. The institute provides mentorship programs to guide students on their academic and professional journeys, ensuring their success in the software engineering field."
+      ]
+    },
+    {
+      "tag": "ngit_inclusive_education",
+      "patterns": [
+        "NGIT inclusive education",
+        "NGIT commitment to inclusive learning",
+        "Inclusivity at NGIT"
+      ],
+      "responses": [
+        "NGIT is committed to providing inclusive education, ensuring that all students have equal opportunities for learning and success. The institute values diversity and promotes an inclusive learning environment for students with varied backgrounds and perspectives."
+      ]
+    },
+    {
+      "tag": "ngit_future_engineers",
+      "patterns": [
+        "NGIT future engineers",
+        "NGIT role in shaping future engineers",
+        "NGIT contribution to the future of engineering"
+      ],
+      "responses": [
+        "NGIT sees its students as the future engineers who will shape the trajectory of the engineering field. The institute aims to equip its students with the skills and knowledge needed to excel in the evolving landscape of software engineering."
+      ]
+    },
+    {
+      "tag": "ngit_mission_statement",
+      "patterns": [
+        "NGIT mission statement",
+        "Mission of Neil Gogte Institute of Technology",
+        "NGIT educational goals"
+      ],
+      "responses": [
+        "NGIT's mission is to provide a conducive learning environment that instills problem-solving skills, professional and ethical standards, and lifelong learning through multi-modal platforms. The institute aims to prepare students to become successful professionals."
+      ]
+    },
+    {
+      "tag": "ngit_learning_environment",
+      "patterns": [
+        "NGIT learning environment",
+        "Conducive learning environment at NGIT",
+        "NGIT approach to learning"
+      ],
+      "responses": [
+        "NGIT is dedicated to providing a conducive learning environment that fosters problem-solving skills, professional and ethical standards, and lifelong learning. The institute believes in utilizing multi-modal platforms to enhance the learning experience for students."
+      ]
+    },
+    {
+      "tag": "ngit_problem_solving",
+      "patterns": [
+        "NGIT problem-solving skills",
+        "NGIT focus on problem-solving",
+        "Problem-solving approach at NGIT"
+      ],
+      "responses": [
+        "NGIT places a strong emphasis on developing problem-solving skills among its students. The institute is committed to equipping students with the ability to tackle challenges and find innovative solutions in their academic and professional journeys."
+      ]
+    },
+    {
+      "tag": "ngit_professional_standards",
+      "patterns": [
+        "NGIT professional standards",
+        "Professional standards at NGIT",
+        "NGIT commitment to professionalism"
+      ],
+      "responses": [
+        "NGIT is committed to instilling professional standards among its students. The institute aims to prepare students to adhere to ethical and professional norms, ensuring their success as responsible professionals in the industry."
+      ]
+    },
+    {
+      "tag": "ngit_lifelong_learning",
+      "patterns": [
+        "NGIT lifelong learning",
+        "NGIT commitment to lifelong learning",
+        "Lifelong learning at NGIT"
+      ],
+      "responses": [
+        "NGIT believes in the importance of lifelong learning and is dedicated to instilling this commitment in its students. The institute aims to provide educational experiences through multi-modal platforms that foster a continuous learning mindset among students."
+      ]
+    },
+    {
+      "tag": "ngit_multi_modal",
+      "patterns": [
+        "NGIT multi-modal platforms",
+        "NGIT approach to multi-modal learning",
+        "Multi-modal education at NGIT"
+      ],
+      "responses": [
+        "NGIT embraces multi-modal platforms in its educational approach. The institute believes in providing diverse learning experiences to students through various modes, ensuring a comprehensive and effective learning journey."
+      ]
+    },
+    {
+      "tag": "ngit_successful_professionals",
+      "patterns": [
+        "NGIT successful professionals",
+        "NGIT preparation for professional success",
+        "NGIT career-ready graduates"
+      ],
+      "responses": [
+        "NGIT's mission includes preparing students to become successful professionals. The institute aims to equip graduates with the skills and knowledge necessary for a successful and fulfilling career in their chosen fields."
+      ]
+    },
+    {
+      "tag": "ngit_industry_partnerships",
+      "patterns": [
+        "NGIT industry partnerships",
+        "Industry-institute partnerships at NGIT",
+        "NGIT collaboration with the industry"
+      ],
+      "responses": [
+        "NGIT forges industry-institute partnerships to expose students to technology trends, work culture, and ethics in the industry. The institute believes in providing students with real-world insights and experiences through collaborations with industry leaders."
+      ]
+    },
+    {
+      "tag": "ngit_technology_trends",
+      "patterns": [
+        "NGIT technology trends exposure",
+        "Exposure to technology trends at NGIT",
+        "NGIT industry insights"
+      ],
+      "responses": [
+        "NGIT collaborates with industry partners to expose students to the latest technology trends. The institute believes in providing students with firsthand knowledge of industry practices, ensuring they are well-prepared for the dynamic field of technology."
+      ]
+    },
+    {
+      "tag": "ngit_work_culture",
+      "patterns": [
+        "NGIT industry work culture",
+        "Work culture exposure at NGIT",
+        "NGIT preparation for industry work culture"
+      ],
+      "responses": [
+        "NGIT's industry-institute partnerships include exposure to the work culture in the industry. The institute aims to prepare students for the professional environment, instilling in them the values and practices of the industry they will enter."
+      ]
+    },
+    {
+      "tag": "ngit_ethics_in_industry",
+      "patterns": [
+        "NGIT ethics in the industry",
+        "Ethical standards exposure at NGIT",
+        "NGIT commitment to industry ethics"
+      ],
+      "responses": [
+        "NGIT's industry-institute partnerships focus on exposing students to ethical standards in the industry. The institute is dedicated to instilling a commitment to ethics and integrity, ensuring that graduates contribute positively to their workplaces."
+      ]
+    },
+    {
+      "tag": "ngit_quality_training",
+      "patterns": [
+        "NGIT quality training",
+        "Quality training at NGIT",
+        "Training in software technologies at NGIT"
+      ],
+      "responses": [
+        "NGIT is committed to providing quality training to its students in state-of-the-art software technologies and tools. The institute believes in equipping students with the skills and knowledge necessary to excel in the ever-evolving field of software development."
+      ]
+    },
+    {
+      "tag": "ngit_software_technologies",
+      "patterns": [
+        "NGIT software technologies training",
+        "Training in state-of-the-art software at NGIT",
+        "NGIT commitment to software development training"
+      ],
+      "responses": [
+        "NGIT focuses on providing training in state-of-the-art software technologies. The institute aims to keep students abreast of the latest developments in software, ensuring they are well-prepared for the demands of the industry."
+      ]
+    },
+    {
+      "tag": "ngit_research_projects",
+      "patterns": [
+        "NGIT research-based projects",
+        "Research activities at NGIT",
+        "NGIT commitment to research in technology"
+      ],
+      "responses": [
+        "NGIT encourages research-based projects and activities in emerging areas of technology. The institute believes in fostering a culture of innovation and exploration, allowing students to engage in meaningful research endeavors."
+      ]
+    },
+    {
+      "tag": "ngit_entrepreneurial_spirit",
+      "patterns": [
+        "NGIT entrepreneurial spirit",
+        "Entrepreneurial spirit at NGIT",
+        "NGIT commitment to nurturing entrepreneurship"
+      ],
+      "responses": [
+        "NGIT is dedicated to nurturing an entrepreneurial spirit among its students and faculty. The institute believes in fostering creativity, innovation, and a mindset that encourages students to explore entrepreneurial ventures in the technology sector."
+      ]
+    },
+    {
+      "tag": "ngit_patriotism",
+      "patterns": [
+        "NGIT spirit of patriotism",
+        "Patriotic values at NGIT",
+        "NGIT commitment to addressing India's challenges"
+      ],
+      "responses": [
+        "NGIT aims to induce the spirit of patriotism among its students, enabling them to understand India's challenges and strive to develop effective solutions. The institute believes in preparing students to contribute to the development and progress of the nation."
+      ]
+    },
+    {
+      "tag": "ngit_india_challenges",
+      "patterns": [
+        "NGIT understanding India's challenges",
+        "NGIT role in addressing national challenges",
+        "NGIT commitment to societal development"
+      ],
+      "responses": [
+        "NGIT is committed to developing a deep understanding of India's challenges among its students. The institute believes in preparing graduates who are equipped to contribute to the societal development of the nation."
+      ]
+    },
+    {
+      "tag": "ngit_effective_solutions",
+      "patterns": [
+        "NGIT effective solutions",
+        "NGIT contribution to effective solutions",
+        "NGIT role in addressing societal issues"
+      ],
+      "responses": [
+        "NGIT aims to prepare students to develop effective solutions to societal issues. The institute believes in instilling a sense of responsibility among its graduates to use their skills and knowledge for the betterment of society."
+      ]
+    },
+    {
+      "tag": "ngit_societal_development",
+      "patterns": [
+        "NGIT societal development",
+        "NGIT role in societal progress",
+        "NGIT commitment to societal betterment"
+      ],
+      "responses": [
+        "NGIT is committed to contributing to societal development and progress. The institute aims to prepare students who are not only skilled professionals but also socially responsible individuals ready to make a positive impact on society."
+      ]
+    },
+    {
+      "tag": "ngit_student_community",
+      "patterns": [
+        "NGIT student community",
+        "NGIT student involvement",
+        "Community engagement at NGIT"
+      ],
+      "responses": [
+        "NGIT boasts a diverse student community, brought together by a shared passion for technical education. The institute encourages community involvement and provides a platform for students with different backgrounds to collaborate and learn together."
+      ]
+    },
+    {
+      "tag": "ngit_mentorship",
+      "patterns": [
+        "NGIT mentorship",
+        "NGIT mentorship programs",
+        "Role of mentorship at NGIT"
+      ],
+      "responses": [
+        "NGIT values mentorship as a crucial element in the development of its students. The institute provides mentorship programs to guide students on their academic and professional journeys, ensuring their success in the software engineering field."
+      ]
+    },
+    {
+      "tag": "ngit_inclusive_education",
+      "patterns": [
+        "NGIT inclusive education",
+        "NGIT commitment to inclusive learning",
+        "Inclusivity at NGIT"
+      ],
+      "responses": [
+        "NGIT is committed to providing inclusive education, ensuring that all students have equal opportunities for learning and success. The institute values diversity and promotes an inclusive learning environment for students with varied backgrounds and perspectives."
+      ]
+    },
+    {
+      "tag": "ngit_future_professionals",
+      "patterns": [
+        "NGIT future professionals",
+        "NGIT role in shaping future professionals",
+        "NGIT contribution to the future of technology"
+      ],
+      "responses": [
+        "NGIT sees its students as the future professionals who will shape the trajectory of the technology industry. The institute aims to equip its students with the skills and knowledge needed to excel in the evolving landscape of software engineering and technology."
+      ]
+    },
+    {
+      "tag": "teaching_excellence",
+      "patterns": [
+        "NGIT teaching standards",
+        "Global excellence in teaching",
+        "Quality education at NGIT"
+      ],
+      "responses": [
+        "NGIT is committed to achieving global excellence in teaching. Our faculty members are highly qualified and dedicated to providing quality education to our students."
+      ]
+    },
+    {
+      "tag": "consulting_services",
+      "patterns": [
+        "NGIT consulting services",
+        "Industry collaboration",
+        "NGIT consultancy"
+      ],
+      "responses": [
+        "NGIT offers consulting services to bridge the gap between academia and industry. Our industry collaborations ensure real-world applications of knowledge and skills."
+      ]
+    },
+    {
+      "tag": "ngit_conclusion",
+      "patterns": [
+        "NGIT conclusion",
+        "Why choose NGIT",
+        "NGIT as an educational institution"
+      ],
+      "responses": [
+        "In conclusion, Neil Gogte Institute of Technology stands as a well-respected institution for computer science and information technology education in India. It is an excellent choice for students aspiring to build a successful career in these fields."
+      ]
+    },
+    {
+      "tag": "kmes_foundation",
+      "patterns": [
+        "Keshav Memorial Educational Society foundation year",
+        "KMES establishment date",
+        "When was KMES founded?"
+      ],
+      "responses": [
+        "Keshav Memorial Educational Society (KMES) was founded in the year 1940 with a motto of 'Service through Education.'"
+      ]
+    },
+    {
+      "tag": "kmes_reputation",
+      "patterns": [
+        "KMES reputation",
+        "KMES well-known in Hyderabad",
+        "Educational institutes of repute in Hyderabad"
+      ],
+      "responses": [
+        "KMES is well known in Hyderabad, having established a reputation over the past 75 years for running various educational institutes of repute."
+      ]
+    },
+    {
+      "tag": "kmes_jubilee",
+      "patterns": [
+        "KMES platinum jubilee",
+        "Platinum jubilee year of KMES",
+        "When did KMES celebrate its platinum jubilee?"
+      ],
+      "responses": [
+        "KMES celebrated its platinum jubilee year in 2014-15, marking 75 years of dedicated service through education."
+      ]
+    },
+    {
+      "tag": "kmes_founder",
+      "patterns": [
+        "KMES founder",
+        "Justice Keshav Rao Koratkar",
+        "Who founded KMES?"
+      ],
+      "responses": [
+        "KMES was formed in the sacred memory of Justice Keshav Rao Koratkar, an eminent educationist, social reformer, and political activist."
+      ]
+    },
+    {
+      "tag": "kmes_association",
+      "patterns": [
+        "KMES association with Bala Gangadhar Tilak",
+        "Justice Keshav Rao Koratkar and Bala Gangadhar Tilak",
+        "KMES and freedom struggle"
+      ],
+      "responses": [
+        "Justice Keshav Rao Koratkar, the founder of KMES, was a close associate of Bala Gangadhar Tilak and actively participated in the freedom struggle of India."
+      ]
+    },
+    {
+      "tag": "kmes_memorial_school",
+      "patterns": [
+        "KMES memorial school",
+        "Pandit Vinayak Rao Vidyalanka",
+        "Founding of memorial school"
+      ],
+      "responses": [
+        "After Justice Keshav Rao Koratkar's passing, his son Pandit Vinayak Rao Vidyalanka, a Minister and Member of Parliament, started a middle school in his father's memory."
+      ]
+    },
+    {
+      "tag": "kmes_school_growth",
+      "patterns": [
+        "KMES memorial school growth",
+        "Initial students of KMES school",
+        "Current status of KMES memorial school"
+      ],
+      "responses": [
+        "The memorial school started with 10-15 students and has now grown into a thriving educational institution with many eminent people as alumni."
+      ]
+    },
+    {
+      "tag": "kmes_social_reformer",
+      "patterns": [
+        "Justice Keshav Rao Koratkar as a social reformer",
+        "KMES founder's social contributions",
+        "Social activism of Justice Keshav Rao Koratkar"
+      ],
+      "responses": [
+        "Justice Keshav Rao Koratkar, the founder of KMES, was not only an educationist but also a prominent social reformer, making significant contributions to social activism."
+      ]
+    },
+    {
+      "tag": "kmes_political_activist",
+      "patterns": [
+        "Justice Keshav Rao Koratkar as a political activist",
+        "Political contributions of KMES founder",
+        "KMES founder in politics"
+      ],
+      "responses": [
+        "Apart from his role as an educationist, Justice Keshav Rao Koratkar was a political activist, actively involved in the political landscape of his time."
+      ]
+    },
+    {
+      "tag": "kmes_alumni",
+      "patterns": [
+        "KMES alumni",
+        "Eminent people from KMES institutions",
+        "Notable alumni of KMES"
+      ],
+      "responses": [
+        "KMES has produced many eminent individuals who are considered notable alumni, contributing to various fields after their education at KMES institutions."
+      ]
+    },
+    {
+      "tag": "kmes_minister",
+      "patterns": [
+        "Pandit Vinayak Rao Vidyalanka",
+        "KMES founder's son as a Minister",
+        "Political career of Pandit Vinayak Rao Vidyalanka"
+      ],
+      "responses": [
+        "Pandit Vinayak Rao Vidyalanka, the son of Justice Keshav Rao Koratkar and founder of KMES memorial school, served as a Minister in the Burgula Ramakrishna Rao’s cabinet and as a Member of Parliament."
+      ]
+    },
+    {
+      "tag": "kmes_middle_school",
+      "patterns": [
+        "Founding of middle school",
+        "Start of KMES memorial school",
+        "Initial years of KMES school"
+      ],
+      "responses": [
+        "Pandit Vinayak Rao Vidyalanka initiated the founding of a middle school in memory of his father, Justice Keshav Rao Koratkar, starting with 10-15 students."
+      ]
+    },
+    {
+      "tag": "kmes_educational_institutes",
+      "patterns": [
+        "Educational institutes under KMES",
+        "KMES institutions",
+        "List of KMES educational institutes"
+      ],
+      "responses": [
+        "KMES oversees and manages various educational institutes of repute, contributing significantly to the field of education."
+      ]
+    },
+    {
+      "tag": "kmes_service_motto",
+      "patterns": [
+        "KMES motto",
+        "Service through Education",
+        "Educational service motto of KMES"
+      ],
+      "responses": [
+        "KMES operates with the motto of 'Service through Education,' emphasizing the commitment to providing valuable educational services to the community."
+      ]
+    },
+    {
+      "tag": "kmes_freedom_struggle",
+      "patterns": [
+        "KMES and freedom struggle",
+        "Role of KMES in Indian freedom struggle",
+        "KMES contributions to independence"
+      ],
+      "responses": [
+        "KMES and its founder, Justice Keshav Rao Koratkar, played a notable role in the Indian freedom struggle, contributing to the fight for independence."
+      ]
+    },
+    {
+      "tag": "kmes_environment",
+      "patterns": [
+        "KMES academic environment",
+        "Learning atmosphere at KMES",
+        "KMES educational surroundings"
+      ],
+      "responses": [
+        "KMES provides a conducive academic environment for students, fostering a positive learning atmosphere within its institutions."
+      ]
+    },
+    {
+      "tag": "kmes_growth",
+      "patterns": [
+        "KMES growth over the years",
+        "Evolution of KMES",
+        "Progress of KMES"
+      ],
+      "responses": [
+        "Over the years, KMES has experienced significant growth and development, expanding its influence in the education sector and contributing to the progress of society."
+      ]
+    },
+    {
+      "tag": "kmes_memorial",
+      "patterns": [
+        "KMES memorial",
+        "Justice Keshav Rao Koratkar memorial",
+        "Memorial in honor of KMES founder"
+      ],
+      "responses": [
+        "KMES has established a memorial in honor of its founder, Justice Keshav Rao Koratkar, commemorating his contributions to education, social reform, and political activism."
+      ]
+    },
+    {
+      "tag": "kmes_student_opportunities",
+      "patterns": [
+        "KMES student opportunities",
+        "Opportunities for students at KMES",
+        "Student programs at KMES"
+      ],
+      "responses": [
+        "KMES provides various opportunities for students, including programs, internships, and initiatives to enhance their educational experience and overall development."
+      ]
+    },
+    {
+      "tag": "kmes_community_service",
+      "patterns": [
+        "KMES community service",
+        "Social service by KMES",
+        "Community involvement of KMES"
+      ],
+      "responses": [
+        "In alignment with its motto, KMES actively engages in community service, contributing to social welfare and community development through its educational initiatives."
+      ]
+    },
+    {
+      "tag": "kmes_year_celebration",
+      "patterns": [
+        "KMES year celebration",
+        "Special celebrations at KMES",
+        "Annual events at KMES"
+      ],
+      "responses": [
+        "KMES celebrates special occasions, including its platinum jubilee in 2014-15, marking significant milestones in its commitment to 'Service through Education.'"
+      ]
+    },
+    {
+      "tag": "kmes_leadership",
+      "patterns": [
+        "Leadership of KMES",
+        "KMES administrative leadership",
+        "Key figures in KMES"
+      ],
+      "responses": [
+        "KMES is led by a dedicated administrative leadership, comprising key figures responsible for steering the institution towards excellence in education and service."
+      ]
+    },
+    {
+      "tag": "kmes_legacy",
+      "patterns": [
+        "KMES legacy",
+        "Historical significance of KMES",
+        "Legacy of Justice Keshav Rao Koratkar"
+      ],
+      "responses": [
+        "KMES has a rich legacy, with historical significance rooted in the contributions of its founder, Justice Keshav Rao Koratkar, to education, social reform, and the freedom struggle."
+      ]
+    },
+    {
+      "tag": "kmes_education_commitment",
+      "patterns": [
+        "KMES commitment to education",
+        "Educational commitment of KMES",
+        "KMES dedication to learning"
+      ],
+      "responses": [
+        "KMES is dedicated to its commitment to education, striving to provide quality learning experiences and contribute to the educational growth of individuals and society."
+      ]
+    },
+    {
+      "tag": "kmes_conclusion",
+      "patterns": [
+        "KMES conclusion",
+        "Why choose KMES",
+        "KMES as an educational choice"
+      ],
+      "responses": [
+        "In conclusion, Keshav Memorial Educational Society (KMES) stands as a beacon of educational service, with a rich history, commitment to excellence, and a legacy of producing notable alumni. It is an excellent choice for those seeking quality education and holistic development."
+      ]
+    },
+    {
+      "tag": "ngit_location",
+      "patterns": [
+        "NGIT location",
+        "Where is NGIT located?",
+        "City of Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology (NGIT) is located in the city of Hyderabad, Telangana, India."
+      ]
+    },
+    {
+      "tag": "ngit_affiliation",
+      "patterns": [
+        "NGIT affiliation",
+        "Which university is NGIT affiliated with?",
+        "Osmania University affiliation"
+      ],
+      "responses": [
+        "NGIT is affiliated with Osmania University, ensuring high academic standards and quality education."
+      ]
+    },
+    {
+      "tag": "ngit_management",
+      "patterns": [
+        "NGIT management",
+        "Management at Neil Gogte Institute of Technology",
+        "Who manages NGIT?"
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology (NGIT) has responsive management that ensures everything is in place and provides dynamic educational leadership to the faculty and other staff."
+      ]
+    },
+    {
+      "tag": "ngit_responsive_management",
+      "patterns": [
+        "NGIT responsive management",
+        "Management responsiveness at NGIT",
+        "How responsive is NGIT management?"
+      ],
+      "responses": [
+        "NGIT is known for its responsive management, ensuring that all aspects of the institute are well-managed and providing dynamic educational leadership to the faculty and staff."
+      ]
+    },
+    {
+      "tag": "ngit_educational_leadership",
+      "patterns": [
+        "NGIT educational leadership",
+        "Leadership style at NGIT",
+        "Dynamic educational leadership at NGIT"
+      ],
+      "responses": [
+        "NGIT's management provides dynamic educational leadership to the faculty and other staff, contributing to the institute's commitment to academic excellence and overall growth."
+      ]
+    },
+    {
+      "tag": "principal_role",
+      "patterns": [
+        "Role of the principal in an educational institution",
+        "Responsibilities of a college principal",
+        "What does a principal do in a college"
+      ],
+      "responses": [
+        "The role of the principal in any educational institution is crucial. They are responsible for the overall administration and management of the college. Principals set the vision and goals of the institution, provide academic and administrative leadership, and ensure that the college is delivering high-quality education to its students."
+      ]
+    },
+    {
+      "tag": "principal_leadership",
+      "patterns": [
+        "Principal's leadership in a college",
+        "How does a principal lead an institution",
+        "Leadership qualities of a college principal"
+      ],
+      "responses": [
+        "The principal plays a key leadership role in a college. They provide guidance and direction to the faculty and staff, fostering a positive and conducive learning environment. Strong leadership qualities, effective communication, and strategic decision-making are essential aspects of a principal's role in leading an educational institution."
+      ]
+    },
+    {
+      "tag": "hod_role",
+      "patterns": [
+        "Role of Heads of Department at NGIT",
+        "Responsibilities of HODs",
+        "What do HODs do at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "The Heads of Department (HODs) at Neil Gogte Institute of Technology play a vital role in the academic administration of the college. They are responsible for the leadership and management of their respective departments, working closely with faculty and students to ensure high-quality education in their areas of expertise."
+      ]
+    },
+    {
+      "tag": "hod_leadership",
+      "patterns": [
+        "Leadership of HODs at NGIT",
+        "How do HODs lead their departments",
+        "Leadership qualities of Heads of Department"
+      ],
+      "responses": [
+        "HODs at NGIT provide leadership within their departments. They guide faculty members, oversee curriculum development, and implement policies that enhance the academic quality of their departments. Effective leadership qualities, communication, and collaboration are crucial for HODs in leading their respective areas of expertise."
+      ]
+    },
+    {
+      "tag": "hod_management",
+      "patterns": [
+        "Management responsibilities of HODs",
+        "How do HODs manage their departments",
+        "Administrative tasks of Heads of Department"
+      ],
+      "responses": [
+        "Heads of Department at NGIT have management responsibilities within their departments. They handle administrative tasks, resource allocation, and ensure the efficient functioning of academic programs. Their managerial skills contribute to the overall success of their departments and the college."
+      ]
+    },
+    {
+      "tag": "academic_quality",
+      "patterns": [
+        "Ensuring academic quality by HODs",
+        "Quality assurance in departments at NGIT",
+        "HODs role in maintaining academic standards"
+      ],
+      "responses": [
+        "HODs play a crucial role in ensuring academic quality within their departments. They collaborate with faculty to maintain high standards of teaching, assess and improve curriculum, and implement measures for continuous improvement. Their commitment to academic excellence contributes to the overall educational experience at NGIT."
+      ]
+    },
+    {
+      "tag": "collaboration_with_faculty",
+      "patterns": [
+        "Collaboration of HODs with faculty",
+        "Working with faculty at NGIT",
+        "HODs and faculty collaboration for academic success"
+      ],
+      "responses": [
+        "HODs collaborate closely with faculty members at NGIT. They work together to plan and execute academic programs, provide mentorship, and foster a collaborative environment that supports both faculty and student success. This collaboration is essential for the overall success of the academic departments."
+      ]
+    },
+    {
+      "tag": "audit_statements_definition",
+      "patterns": [
+        "Definition of audit statements",
+        "What are audit statements",
+        "Explanation of financial audit statements"
+      ],
+      "responses": [
+        "Audit statements refer to the financial statements and reports prepared by an independent auditor to assess the financial health and performance of an organization. These statements provide an objective evaluation of the financial information, ensuring accuracy, completeness, and compliance with applicable laws and regulations."
+      ]
+    },
+    {
+      "tag": "purpose_of_audit_statements",
+      "patterns": [
+        "Purpose of audit statements",
+        "Why are audit statements important",
+        "Objectives of financial audit statements"
+      ],
+      "responses": [
+        "The purpose of audit statements is to provide an objective assessment of an organization's financial health. They help ensure the accuracy and completeness of financial records and assess compliance with relevant laws and regulations. Audit statements are crucial for stakeholders, investors, and regulatory authorities to make informed decisions about the organization."
+      ]
+    },
+    {
+      "tag": "preparation_of_audit_statements",
+      "patterns": [
+        "Preparation of audit statements",
+        "How are audit statements prepared",
+        "Steps in creating financial audit statements"
+      ],
+      "responses": [
+        "Audit statements are prepared by independent auditors. The process involves a thorough examination of the organization's financial records, transactions, and internal controls. Auditors follow established auditing standards and procedures to ensure the accuracy and reliability of the financial information presented in the statements."
+      ]
+    },
+    {
+      "tag": "key_components_of_audit_statements",
+      "patterns": [
+        "Key components of audit statements",
+        "What is included in financial audit statements",
+        "Sections of audit statements"
+      ],
+      "responses": [
+        "Audit statements typically include key components such as the balance sheet, income statement, cash flow statement, and notes to the financial statements. These components provide a comprehensive overview of the organization's financial position, performance, and disclosures about significant accounting policies and practices."
+      ]
+    },
+    {
+      "tag": "impact_of_audit_statements",
+      "patterns": [
+        "Impact of audit statements",
+        "How do audit statements affect organizations",
+        "Significance of financial audit statements"
+      ],
+      "responses": [
+        "Audit statements have a significant impact on organizations. They enhance transparency, instill confidence among stakeholders, and facilitate trust in financial reporting. Organizations with reliable and accurate audit statements are better positioned to attract investors, obtain financing, and demonstrate their commitment to financial integrity and compliance."
+      ]
+    },
+    {
+      "tag": "admissions_process",
+      "patterns": [
+        "Admissions process at NGIT",
+        "How to get admission to NGIT",
+        "NGIT admission criteria"
+      ],
+      "responses": [
+        "Admissions to Neil Gogte Institute of Technology (NGIT) are based on the student’s performance in various entrance exams and their academic record."
+      ]
+    },
+    {
+      "tag": "courses_offered",
+      "patterns": [
+        "Courses offered at NGIT",
+        "List of programs at Neil Gogte Institute of Technology",
+        "NGIT academic programs"
+      ],
+      "responses": [
+        "NGIT offers courses in Computer Science and Engineering with specializations in AI & ML. The EAMCET codes for these programs are CSE and CSM, respectively. The total student intake per year for Computer Science and Engineering is 180, and for Computer Science and Engineering (AI & ML) is 120."
+      ]
+    },
+    {
+      "tag": "category_a_admissions",
+      "patterns": [
+        "Category A admissions at NGIT",
+        "Undergraduate admissions criteria at NGIT",
+        "TS EAMCET and JEE Main admissions at NGIT"
+      ],
+      "responses": [
+        "For Category A undergraduate admissions at NGIT, students must have completed their 10+2 or equivalent education with a minimum aggregate of 50% marks. They should have passed in the subjects of Physics, Chemistry, and Mathematics. The selection is based on their performance in engineering entrance exams such as TS EAMCET or JEE Main."
+      ]
+    },
+    {
+      "tag": "category_b_admissions",
+      "patterns": [
+        "Category B admissions at NGIT",
+        "Admissions as per State Govt. norms",
+        "Merit list-based admissions at NGIT"
+      ],
+      "responses": [
+        "In addition to Category A admissions, NGIT provides Category B admissions based on the merit list prepared by the college, considering the academic record of the students as per State Govt. norms."
+      ]
+    },
+    {
+      "tag": "nri_admissions",
+      "patterns": [
+        "NRI admissions at NGIT",
+        "Admissions for NRI students",
+        "NGIT admissions for sponsored students"
+      ],
+      "responses": [
+        "NGIT also provides admissions for NRI students and students sponsored by various organizations. The admission process for NRI students may have specific requirements and criteria."
+      ]
+    },
+    {
+      "tag": "entrance_exams",
+      "patterns": [
+        "Entrance exams for NGIT admissions",
+        "NGIT admission tests",
+        "Engineering entrance exams for NGIT"
+      ],
+      "responses": [
+        "The admission process at NGIT includes performance in various entrance exams such as TS EAMCET (Telangana State Engineering, Agriculture and Medical Common Entrance Test) and JEE Main for undergraduate admissions."
+      ]
+    },
+    {
+      "tag": "academic_criteria",
+      "patterns": [
+        "Academic criteria for NGIT admissions",
+        "NGIT admission eligibility",
+        "Minimum marks for NGIT admissions"
+      ],
+      "responses": [
+        "To be eligible for NGIT admissions, students must have completed their 10+2 or equivalent education with a minimum aggregate of 50% marks. They should have passed in the subjects of Physics, Chemistry, and Mathematics."
+      ]
+    },
+    {
+      "tag": "total_student_intake",
+      "patterns": [
+        "Total student intake at NGIT",
+        "NGIT yearly student capacity",
+        "Student enrollment at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "NGIT has a total student intake of 180 per year for Computer Science and Engineering and 120 per year for Computer Science and Engineering (AI & ML)."
+      ]
+    },
+    {
+      "tag": "specializations",
+      "patterns": [
+        "Specializations at NGIT",
+        "NGIT Computer Science and Engineering specializations",
+        "NGIT AI & ML program"
+      ],
+      "responses": [
+        "NGIT offers specializations in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning (AI & ML)."
+      ]
+    },
+    {
+      "tag": "academic_environment",
+      "patterns": [
+        "Academic environment at NGIT",
+        "NGIT educational atmosphere",
+        "Learning environment at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "NGIT provides an ideal environment for academic excellence and overall growth with modern facilities, stunning green surroundings, and state-of-the-art infrastructure."
+      ]
+    },
+    {
+      "tag": "ngit_academics_intro",
+      "patterns": [
+        "Introduction to NGIT academics",
+        "NGIT academic programs",
+        "Overview of academic offerings at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology (NGIT) is known for its strong academic programs in engineering, offering undergraduate courses in Computer Science Engineering and Information Technology."
+      ]
+    },
+    {
+      "tag": "ngit_courses_offered",
+      "patterns": [
+        "Courses offered at NGIT",
+        "NGIT engineering programs",
+        "Undergraduate courses at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "NGIT offers undergraduate courses in Computer Science Engineering and Information Technology."
+      ]
+    },
+    {
+      "tag": "ngit_curriculum_design",
+      "patterns": [
+        "NGIT curriculum design",
+        "Structure of academic programs at NGIT",
+        "Curriculum of Computer Science and Information Technology at NGIT"
+      ],
+      "responses": [
+        "The curriculum at NGIT is designed to provide students with a strong foundation in the field of computer science and information technology, preparing them for a successful career in the industry."
+      ]
+    },
+    {
+      "tag": "ngit_program_duration",
+      "patterns": [
+        "Duration of academic programs at NGIT",
+        "NGIT undergraduate program length",
+        "Number of years in NGIT academic programs"
+      ],
+      "responses": [
+        "The academic program at NGIT is a 4-year program, with 8 semesters."
+      ]
+    },
+    {
+      "tag": "ngit_semesters",
+      "patterns": [
+        "NGIT semesters",
+        "Number of semesters at NGIT",
+        "NGIT academic year structure"
+      ],
+      "responses": [
+        "The academic program at NGIT consists of 8 semesters."
+      ]
+    },
+    {
+      "tag": "ngit_curriculum_structure",
+      "patterns": [
+        "Structure of NGIT curriculum",
+        "NGIT academic program breakdown",
+        "Components of NGIT coursework"
+      ],
+      "responses": [
+        "The curriculum at NGIT includes a mix of theoretical and practical classes, with students required to complete various projects and assignments as part of their coursework."
+      ]
+    },
+    {
+      "tag": "ngit_projects_and_assignments",
+      "patterns": [
+        "NGIT projects and assignments",
+        "Practical requirements in NGIT curriculum",
+        "Student projects at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "As part of their coursework, students at NGIT are required to complete various projects and assignments to enhance their practical understanding of the concepts taught."
+      ]
+    },
+    {
+      "tag": "ngit_exams",
+      "patterns": [
+        "NGIT exams",
+        "Examinations at NGIT",
+        "Assessment methods at Neil Gogte Institute of Technology"
+      ],
+      "responses": [
+        "The college conducts regular exams to evaluate the students' understanding of the concepts taught."
+      ]
+    },
+    {
+      "tag": "ngit_academic_program_objective",
+      "patterns": [
+        "NGIT academic program objective",
+        "Goal of academic programs at NGIT",
+        "NGIT education goals"
+      ],
+      "responses": [
+        "Overall, the academic program at Neil Gogte Institute of Technology is designed to provide students with a strong foundation in computer science and information technology, preparing them for a successful career in the industry."
+      ]
+    },
+    {
+      "tag": "ngit_academic_focus_areas",
+      "patterns": [
+        "NGIT academic focus areas",
+        "Priorities in NGIT education",
+        "NGIT academic emphasis"
+      ],
+      "responses": [
+        "The college's focus on practical learning, research, and innovation, and student development makes it a premier institution for computer science and information technology education in Telangana, India."
+      ]
+    },
+    {
+      "tag": "ngit_practical_learning",
+      "patterns": [
+        "Practical learning at NGIT",
+        "NGIT hands-on education",
+        "Practical aspects of NGIT curriculum"
+      ],
+      "responses": [
+        "NGIT emphasizes practical learning, providing students with hands-on education to complement theoretical knowledge."
+      ]
+    },
+    {
+      "tag": "ngit_premier_institution",
+      "patterns": [
+        "NGIT as a premier institution",
+        "Why NGIT is considered a top institution",
+        "NGIT reputation in computer science education"
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology is recognized as a premier institution for computer science and information technology education in Telangana, India."
+      ]
+    },
+    {
+      "tag": "ngit_academic_environment",
+      "patterns": [
+        "Academic environment at NGIT",
+        "Learning atmosphere at NGIT",
+        "NGIT educational environment"
+      ],
+      "responses": [
+        "NGIT provides a conducive academic environment for students, facilitating a positive learning atmosphere."
+      ]
+    },
+    {
+      "tag": "cse_department",
+      "patterns": [
+        "Computer Science and Engineering department",
+        "CSE department at NGIT",
+        "Neil Gogte Institute of Technology CSE"
+      ],
+      "responses": [
+        "The Department of Computer Science and Engineering at NGIT is equipped with dedicated faculty and offers undergraduate programs. The department has a focus on staying updated with emerging trends and technologies in collaboration with industry."
+      ]
+    },
+    {
+      "tag": "cse_ai_ml_program",
+      "patterns": [
+        "Computer Science & Engineering (AI&ML)",
+        "AI and ML undergraduate course at NGIT",
+        "B.Tech in AI and ML at NGIT"
+      ],
+      "responses": [
+        "The CSE department offers a specialized undergraduate course in Computer Science & Engineering with a focus on Artificial Intelligence and Machine Learning. The program aims to make professionals proficient in advanced learning systems based on AI algorithms."
+      ]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "CSE department faculty at NGIT",
+        "Experienced faculty at NGIT",
+        "Founder Director Neil Gogte"
+      ],
+      "responses": [
+        "The CSE department at NGIT has dedicated and experienced faculty members who continuously upgrade their skills under the guidance of Founder Director Neil Gogte, a stalwart in Computer Science & Engineering."
+      ]
+    },
+    {
+      "tag": "industry_institute_interaction",
+      "patterns": [
+        "Industry Institute Interaction at NGIT",
+        "Workshops for students at NGIT",
+        "Collaboration with Organizations"
+      ],
+      "responses": [
+        "The CSE department highly encourages Industry Institute Interaction to bridge the gap between industry and the institute. Various workshops on the latest emerging trends and technologies are conducted to fulfill industry expectations and enhance technical skills among students."
+      ]
+    },
+    {
+      "tag": "ai_ml_course",
+      "patterns": [
+        "4-year undergraduate course in AI & ML",
+        "B.Tech in Artificial Intelligence and Machine Learning",
+        "NGIT AI&ML program"
+      ],
+      "responses": [
+        "NGIT offers a four-year undergraduate B.Tech course in Artificial Intelligence and Machine Learning. The program aims to develop a strong foundation in AI principles and technologies, including logic, knowledge representation, probabilistic models, and machine learning."
+      ]
+    },
+    {
+      "tag": "technology_expertise",
+      "patterns": [
+        "Expertise in AI and ML",
+        "World-class expertise in emerging technologies",
+        "NGIT technological era"
+      ],
+      "responses": [
+        "The B.Tech course in AI and ML at NGIT is designed for students seeking to build world-class expertise in Artificial Intelligence, Machine Learning, and emerging technologies to excel in the upcoming technological era."
+      ]
+    },
+    {
+      "tag": "hs_department",
+      "patterns": [
+        "Humanities & Science department",
+        "H&S department at NGIT",
+        "NGIT basic sciences and language skills"
+      ],
+      "responses": [
+        "The Department of Humanities & Science at NGIT has highly qualified and experienced faculty. The department focuses on laying sound foundations through basic sciences and language skills, which are integral to the advanced learning activities of technology students."
+      ]
+    },
+    {
+      "tag": "academic_excellence",
+      "patterns": [
+        "NGIT academic excellence",
+        "NGIT overall growth",
+        "NGIT ideal environment for academics"
+      ],
+      "responses": [
+        "NGIT campus is known for its modern facilities, stunning green surroundings, and state-of-the-art infrastructure. It provides an ideal environment for academic excellence and overall growth."
+      ]
+    },
+    {
+      "tag": "technical_skills",
+      "patterns": [
+        "NGIT technical skills",
+        "NGIT collaboration with Organizations",
+        "NGIT workshops on emerging technologies"
+      ],
+      "responses": [
+        "The CSE department has collaborated with reputed organizations to explore, build, develop, and enhance technical skills in trending technologies among faculty and students at NGIT."
+      ]
+    },
+    {
+      "tag": "cse_vision",
+      "patterns": [
+        "Vision of CSE department",
+        "CSE department goals",
+        "NGIT CSE vision"
+      ],
+      "responses": [
+        "The vision of the Computer Science and Engineering department at NGIT is to be among the region's premier teaching and research departments, producing globally competent and socially responsible graduates in the most conducive academic environment."
+      ]
+    },
+    {
+      "tag": "cse_mission",
+      "patterns": [
+        "Mission of CSE department",
+        "CSE department objectives",
+        "NGIT CSE mission"
+      ],
+      "responses": [
+        "The mission of the Computer Science and Engineering department at NGIT includes providing faculty with state-of-the-art facilities for continuous professional development and research, imparting skills to transform students for societal needs, making students industry-ready, engaging in collaborative research, and cultivating responsibility through knowledge sharing and innovative solutions."
+      ]
+    },
+    {
+      "tag": "professional_development",
+      "patterns": [
+        "CSE faculty professional development",
+        "Continuous research for CSE faculty",
+        "NGIT faculty development"
+      ],
+      "responses": [
+        "The CSE department aims to provide faculty with state-of-the-art facilities for continuous professional development and research, focusing on foundational aspects and emerging computing trends."
+      ]
+    },
+    {
+      "tag": "entrepreneurial_talents",
+      "patterns": [
+        "CSE department entrepreneurial talents",
+        "Skills for entrepreneurial development",
+        "NGIT entrepreneurial talents"
+      ],
+      "responses": [
+        "The mission of the CSE department is to impart skills that transform students to develop technical solutions for societal needs and inculcate entrepreneurial talents."
+      ]
+    },
+    {
+      "tag": "collaborative_research",
+      "patterns": [
+        "Collaborative research at CSE department",
+        "CSE department research activities",
+        "NGIT research collaborations"
+      ],
+      "responses": [
+        "The CSE department aims to engage in collaborative research with academia and industry, generating resources for research activities, resulting in sponsored projects and consultancy."
+      ]
+    },
+    {
+      "tag": "cse_ai_ml_vision",
+      "patterns": [
+        "Vision of CSE(AI&ML) department",
+        "CSE(AI&ML) department goals",
+        "NGIT CSE(AI&ML) vision"
+      ],
+      "responses": [
+        "The vision of the Computer Science Engineering in Artificial Intelligence and Machine Learning department at NGIT is to be among the region's premier teaching and research departments, producing globally competent and socially responsible graduates in the most conducive academic environment."
+      ]
+    },
+    {
+      "tag": "cse_ai_ml_mission",
+      "patterns": [
+        "Mission of CSE(AI&ML) department",
+        "CSE(AI&ML) department objectives",
+        "NGIT CSE(AI&ML) mission"
+      ],
+      "responses": [
+        "The mission of the Computer Science Engineering in Artificial Intelligence and Machine Learning department at NGIT includes providing faculty with state-of-the-art facilities for continuous professional development and research, imparting skills to transform students for societal needs, making students industry-ready, engaging in collaborative research, and cultivating responsibility through knowledge sharing and innovative computing solutions."
+      ]
+    },
+    {
+      "tag": "cse_ai_ml_professional_development",
+      "patterns": [
+        "CSE(AI&ML) faculty professional development",
+        "Continuous research for CSE(AI&ML) faculty",
+        "NGIT CSE(AI&ML) faculty development"
+      ],
+      "responses": [
+        "The CSE(AI&ML) department aims to provide faculty with state-of-the-art facilities for continuous professional development and research, focusing on foundational aspects and emerging computing trends."
+      ]
+    },
+    {
+      "tag": "cse_ai_ml_entrepreneurial_talents",
+      "patterns": [
+        "CSE(AI&ML) department entrepreneurial talents",
+        "Skills for entrepreneurial development in CSE(AI&ML)",
+        "NGIT CSE(AI&ML) entrepreneurial talents"
+      ],
+      "responses": [
+        "The mission of the CSE(AI&ML) department is to impart skills that transform students to develop technical solutions for societal needs and inculcate entrepreneurial talents."
+      ]
+    },
+    {
+      "tag": "cse_ai_ml_collaborative_research",
+      "patterns": [
+        "Collaborative research at CSE(AI&ML) department",
+        "CSE(AI&ML) department research activities",
+        "NGIT CSE(AI&ML) research collaborations"
+      ],
+      "responses": [
+        "The CSE(AI&ML) department aims to engage in collaborative research with academia and industry, generating resources for research activities, resulting in sponsored projects and consultancy."
+      ]
+    },
+    {
+      "tag": "hs_vision",
+      "patterns": [
+        "Vision of H&S department",
+        "H&S department goals",
+        "NGIT H&S vision"
+      ],
+      "responses": [
+        "The vision of the Humanities and Sciences department at NGIT is to be among the region's premier teaching and research departments, producing globally competent and socially responsible graduates in the most conducive academic environment."
+      ]
+    },
+    {
+      "tag": "hs_mission",
+      "patterns": [
+        "Mission of H&S department",
+        "H&S department objectives",
+        "NGIT H&S mission"
+      ],
+      "responses": [
+        "The mission of the Humanities and Sciences department at NGIT includes providing faculty with state-of-the-art facilities for continuous professional development and research, imparting skills to transform students for societal needs, making students industry-ready, engaging in collaborative research, and cultivating responsibility through knowledge sharing and innovative solutions."
+      ]
+    },
+    {
+      "tag": "hs_professional_development",
+      "patterns": [
+        "H&S faculty professional development",
+        "Continuous research for H&S faculty",
+        "NGIT H&S faculty development"
+      ],
+      "responses": [
+        "The H&S department aims to provide faculty with state-of-the-art facilities for continuous professional development and research, focusing on foundational aspects and emerging trends in humanities and sciences."
+      ]
+    },
+    {
+      "tag": "hs_entrepreneurial_talents",
+      "patterns": [
+        "H&S department entrepreneurial talents",
+        "Skills for entrepreneurial development in H&S",
+        "NGIT H&S entrepreneurial talents"
+      ],
+      "responses": [
+        "The mission of the H&S department is to impart skills that transform students to develop technical solutions for societal needs and inculcate entrepreneurial talents."
+      ]
+    },
+    {
+      "tag": "hs_collaborative_research",
+      "patterns": [
+        "Collaborative research at H&S department",
+        "H&S department research activities",
+        "NGIT H&S research collaborations"
+      ],
+      "responses": [
+        "The H&S department aims to engage in collaborative research with academia and industry, generating resources for research activities, resulting in sponsored projects and consultancy."
+      ]
+    },
+    {
+      "tag": "research_vision",
+      "patterns": [
+        "NGIT research vision",
+        "Research and Development vision",
+        "Vision for research at NGIT"
+      ],
+      "responses": [
+        "NGIT envisions India-centric Research and Development, promoting deep technologies, encouraging research at the undergraduate level, fostering academic entrepreneurship, and recognizing defense as an emerging industry and career opportunity. Research is considered the foundation of the nation's economic growth."
+      ]
+    },
+    {
+      "tag": "research_commitment",
+      "patterns": [
+        "NGIT commitment to research",
+        "Research foundation at NGIT",
+        "NGIT long-term research commitment"
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology (NGIT) is committed to long-term research in emerging areas of engineering and technology. The institution recognizes the importance of research and has established an R&D cell to focus on scientific and industrial research in various disciplines. A state-of-the-art, customized research lab has been built for this purpose."
+      ]
+    },
+    {
+      "tag": "research_projects",
+      "patterns": [
+        "NGIT research projects",
+        "Research engagement at NGIT",
+        "Research projects model at NGIT"
+      ],
+      "responses": [
+        "NGIT's research projects engagement model involves a Principal Investigator (PI) as the point of contact and responsible for research and project execution. A Research Assistant (RA) acts as a liaison between the PI and Software Engineer, guiding students through the entire project life cycle. The Software Engineer (SE) contributes industry and domain expertise, helping in the design and architecture of the solution."
+      ]
+    },
+    {
+      "tag": "pi_role",
+      "patterns": [
+        "Principal Investigator role",
+        "PI responsibilities in research",
+        "NGIT PI in research projects"
+      ],
+      "responses": [
+        "The Principal Investigator (PI) at NGIT serves as the point of contact and is responsible for research and the execution of the project in the research projects engagement model."
+      ]
+    },
+    {
+      "tag": "ra_role",
+      "patterns": [
+        "Research Assistant role",
+        "RA responsibilities in research",
+        "NGIT RA in research projects"
+      ],
+      "responses": [
+        "The Research Assistant (RA) at NGIT acts as a liaison between the Principal Investigator and Software Engineer, guiding students through the entire project life cycle in the research projects engagement model."
+      ]
+    },
+    {
+      "tag": "se_role",
+      "patterns": [
+        "Software Engineer role",
+        "SE responsibilities in research",
+        "NGIT SE in research projects"
+      ],
+      "responses": [
+        "The Software Engineer (SE) at NGIT contributes industry and domain expertise, helping in the design and architecture of the solution in the research projects engagement model."
+      ]
+    },
+    {
+      "tag": "industry_recognition",
+      "patterns": [
+        "Industry recognition for NGIT research",
+        "NGIT research impact on industry",
+        "NGIT research contributions to the industry"
+      ],
+      "responses": [
+        "NGIT's research is focused on making an impact on the industry, and the institution has gained recognition for its contributions to scientific and industrial research in various disciplines."
+      ]
+    },
+    {
+      "tag": "research_lab",
+      "patterns": [
+        "NGIT research lab",
+        "Customized research lab at NGIT",
+        "State-of-the-art research lab at NGIT"
+      ],
+      "responses": [
+        "For the purpose of research, NGIT has established a state-of-the-art, customized research lab equipped to focus on scientific and industrial research in various disciplines."
+      ]
+    },
+    {
+      "tag": "academic_entrepreneurship",
+      "patterns": [
+        "NGIT academic entrepreneurship",
+        "Entrepreneurial talents in NGIT",
+        "NGIT research and academic entrepreneurship"
+      ],
+      "responses": [
+        "NGIT is committed to fostering academic entrepreneurship, recognizing it as an essential aspect of research and development."
+      ]
+    },
+    {
+      "tag": "defense_career_opportunity",
+      "patterns": [
+        "Defense as a career opportunity",
+        "NGIT defense industry opportunities",
+        "Career in defense at NGIT"
+      ],
+      "responses": [
+        "NGIT acknowledges defense as an emerging industry and a career opportunity, aligning with the institution's vision for research and development."
+      ]
+    },
+    {
+      "tag": "placement_cell",
+      "patterns": [
+        "NGIT Placement Cell",
+        "Placement activities at NGIT",
+        "NGIT Training and Placement"
+      ],
+      "responses": [
+        "NGIT has a full-fledged Placement Cell responsible for overseeing Training and Placement activities of the students. The Placement Cell closely coordinates with KMIT Placement Cell, and many recruitment drives are conducted jointly for both KMIT and NGIT students. This collaboration provides NGIT students with the advantage of participating in recruitment drives of top companies that come to KMIT."
+      ]
+    },
+    {
+      "tag": "joint_recruitment_drives",
+      "patterns": [
+        "Joint recruitment drives at NGIT",
+        "Recruitment drives for KMIT and NGIT students",
+        "Collaborative placement activities"
+      ],
+      "responses": [
+        "NGIT Placement Cell closely coordinates with KMIT Placement Cell, and most of the recruitment drives are done together for both KMIT and NGIT students. This collaborative approach allows NGIT students to participate in recruitment drives of top companies visiting KMIT."
+      ]
+    },
+    {
+      "tag": "placement_record",
+      "patterns": [
+        "NGIT Placement Record",
+        "Placement success at NGIT",
+        "NGIT graduating batch placements"
+      ],
+      "responses": [
+        "NGIT, in its first year with a full-intake graduating batch, has built an impressive Placement Record. The Placement Cell's efforts and the Finishing School Model contribute to the success of placements at NGIT."
+      ]
+    },
+    {
+      "tag": "advantages_for_students",
+      "patterns": [
+        "Advantages for NGIT students in placements",
+        "Placement benefits for NGIT students",
+        "NGIT students participating in top companies' recruitment drives"
+      ],
+      "responses": [
+        "The collaboration with KMIT for joint recruitment drives provides NGIT students with the advantage of participating in recruitment drives of top companies. This enhances their opportunities and experiences in the placement process."
+      ]
+    },
+    {
+      "tag": "campus_description",
+      "patterns": [
+        "NGIT campus description",
+        "Description of Neil Gogte Institute of Technology campus",
+        "What does NGIT campus look like?"
+      ],
+      "responses": [
+        "Nestled in a scenic landscape, Neil Gogte Institute of Technology is a renowned college for computer science engineering. The campus is known for its modern facilities, stunning green surroundings, and state-of-the-art infrastructure, providing an ideal environment for academic excellence and overall growth."
+      ]
+    },
+    {
+      "tag": "serene_atmosphere",
+      "patterns": [
+        "Serene atmosphere at NGIT campus",
+        "NGIT campus ambiance",
+        "What is the atmosphere like at NGIT?"
+      ],
+      "responses": [
+        "As you enter the gates of Neil Gogte Institute of Technology, you'll be captivated by its serene atmosphere. The well-maintained lawns, colorful flowers, and tall trees create a peaceful ambiance, offering a break from the busy outside world and providing a calm space for students to learn and grow."
+      ]
+    },
+    {
+      "tag": "modern_design",
+      "patterns": [
+        "Modern design of NGIT buildings",
+        "Architecture at NGIT campus",
+        "How are the buildings designed at NGIT?"
+      ],
+      "responses": [
+        "The college buildings at Neil Gogte Institute of Technology are a perfect blend of modern design and natural beauty. The main building houses an impressive auditorium, serving as a versatile space for various events and activities."
+      ]
+    },
+    {
+      "tag": "auditorium",
+      "patterns": [
+        "NGIT auditorium",
+        "Auditorium at Neil Gogte Institute of Technology",
+        "Tell me about the auditorium at NGIT?"
+      ],
+      "responses": [
+        "The auditorium at NGIT is housed in the main building and is equipped with state-of-the-art sound and visual systems. It serves as a venue for guest lectures, cultural performances, and academic conferences, ensuring a seamless experience for both presenters and attendees."
+      ]
+    },
+    {
+      "tag": "seminar_halls",
+      "patterns": [
+        "NGIT seminar halls",
+        "Seminar halls at Neil Gogte Institute of Technology",
+        "Tell me about the seminar halls at NGIT?"
+      ],
+      "responses": [
+        "The campus boasts seminar halls that facilitate interactive learning and knowledge sharing. These halls are equipped with audiovisual aids, making them ideal for workshops, presentations, and group discussions, providing a platform for students to exchange ideas and engage in intellectual debates."
+      ]
+    },
+    {
+      "tag": "library",
+      "patterns": [
+        "NGIT library",
+        "Library at Neil Gogte Institute of Technology",
+        "Tell me about the library at NGIT?"
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology takes pride in its well-stocked library, a treasure trove of knowledge. The library houses a vast collection of books, journals, and digital resources related to computer science engineering and other relevant fields, offering a quiet and comfortable environment for students to study, conduct research, and explore new topics."
+      ]
+    },
+    {
+      "tag": "bhavyashya_dwar",
+      "patterns": [
+        "Bhavyashya Dwar at NGIT",
+        "Placement cell at NGIT",
+        "Tell me about Bhavyashya Dwar at NGIT?"
+      ],
+      "responses": [
+        "Another highlight of the campus is the Bhavyashya Dwar, the placement cell of the institute. It features dedicated cabins for conducting interviews, giving students a corporate-like experience. The Bhavyashya Dwar plays a vital role in connecting students with prospective employers, organizing placement drives, and grooming students for successful careers in the industry."
+      ]
+    },
+    {
+      "tag": "labs",
+      "patterns": [
+        "NGIT laboratories",
+        "Labs at Neil Gogte Institute of Technology",
+        "Tell me about the labs at NGIT?"
+      ],
+      "responses": [
+        "In addition to the auditorium, seminar halls, library, and Bhavyashya Dwar, the campus offers dedicated laboratories equipped with advanced equipment for practical learning and experimentation."
+      ]
+    },
+    {
+      "tag": "sports_rooms",
+      "patterns": [
+        "NGIT sports rooms",
+        "Sports facilities at Neil Gogte Institute of Technology",
+        "Tell me about sports rooms at NGIT?"
+      ],
+      "responses": [
+        "The sports rooms at NGIT provide students with opportunities to engage in physical activities and maintain a healthy lifestyle."
+      ]
+    },
+    {
+      "tag": "canteen",
+      "patterns": [
+        "NGIT canteen",
+        "Canteen at Neil Gogte Institute of Technology",
+        "Tell me about the canteen at NGIT?"
+      ],
+      "responses": [
+        "The modern canteen at NGIT serves delicious and nutritious meals, providing a vibrant space for students to socialize and relax."
+      ]
+    },
+    {
+      "tag": "conclusion",
+      "patterns": [
+        "Conclusion about NGIT campus",
+        "NGIT campus summary",
+        "What is the conclusion about the NGIT campus?"
+      ],
+      "responses": [
+        "In conclusion, Neil Gogte Institute of Technology offers a beautiful and green campus for computer science engineering students. Its serene atmosphere, combined with modern facilities, supports students' growth and inspires their creativity. The auditorium, seminar halls, library, Bhavyashya Dwar, and other amenities contribute to the overall learning experience and well-being of students. The campus is a sanctuary for learning, where students can gain knowledge, enhance their skills, and enjoy a well-rounded college experience."
+      ]
+    },
+    {
+      "tag": "auditorium_seminar_halls",
+      "patterns": [
+        "NGIT auditorium and seminar halls",
+        "Auditorium and seminar halls at NGIT",
+        "Tell me about the auditorium and seminar halls at NGIT?"
+      ],
+      "responses": [
+        "The campus includes Seminar Hall 1, Seminar Hall 2, The Auditorium, Bhavishya Dwar Seminar Hall, and Seminar Hall 2 as dedicated spaces for various events, workshops, presentations, and academic activities."
+      ]
+    },
+    {
+      "tag": "labs_list",
+      "patterns": [
+        "List of labs at NGIT",
+        "NGIT laboratories",
+        "Tell me the labs available at NGIT?"
+      ],
+      "responses": [
+        "The labs at NGIT include PPS(Programming) Lab, Basic Electrical Engineering Lab, Chemistry Lab, Placement and Examination Labs, Engineering Workshop, and Electronics Lab."
+      ]
+    },
+    {
+      "tag": "library_importance",
+      "patterns": [
+        "Importance of NGIT library",
+        "NGIT library significance",
+        "Why is the library important at NGIT?"
+      ],
+      "responses": [
+        "The NGIT library is considered a treasure trove of knowledge, offering a vast collection of books, journals, and digital resources related to computer science engineering and other relevant fields. It provides a quiet and comfortable environment for students to study, conduct research, and explore new topics."
+      ]
+    },
+    {
+      "tag": "bhavyashya_dwar_role",
+      "patterns": [
+        "Role of Bhavyashya Dwar at NGIT",
+        "NGIT placement cell responsibilities",
+        "What is the role of Bhavyashya Dwar at NGIT?"
+      ],
+      "responses": [
+        "The Bhavyashya Dwar at NGIT plays a vital role in connecting students with prospective employers, organizing placement drives, and grooming students for successful careers in the industry. It features dedicated cabins for conducting interviews, providing students with a corporate-like experience."
+      ]
+    },
+    {
+      "tag": "essential_amenities",
+      "patterns": [
+        "NGIT essential amenities",
+        "Amenities at Neil Gogte Institute of Technology",
+        "What are the essential amenities at NGIT?"
+      ],
+      "responses": [
+        "In addition to the auditorium, seminar halls, library, Bhavyashya Dwar, and labs, the campus offers other essential amenities, including sports rooms for physical activities, a modern canteen serving delicious meals, and dedicated classrooms."
+      ]
+    },
+    {
+      "tag": "classrooms",
+      "patterns": [
+        "NGIT classrooms",
+        "Classrooms at Neil Gogte Institute of Technology",
+        "Tell me about the classrooms at NGIT?"
+      ],
+      "responses": [
+        "The campus at NGIT includes dedicated classrooms that contribute to the overall learning experience and well-being of students."
+      ]
+    },
+    {
+      "tag": "accessibility",
+      "patterns": [
+        "NGIT campus accessibility",
+        "Is NGIT campus accessible?",
+        "Tell me about the accessibility of NGIT campus."
+      ],
+      "responses": [
+        "Neil Gogte Institute of Technology is accessible and provides a conducive environment for students to learn and grow."
+      ]
+    },
+    {
+      "tag": "event_culture",
+      "patterns": [
+        "NGIT event culture",
+        "Events at Neil Gogte Institute of Technology",
+        "Describe the event culture at NGIT"
+      ],
+      "responses": [
+        "NGIT has a vibrant event culture with year-round events, providing students with opportunities for participation and engagement."
+      ]
+    },
+    {
+      "tag": "patang_utsav",
+      "patterns": [
+        "NGIT Patang Utsav",
+        "Describe Patang Utsav at NGIT",
+        "Tell me about the Patang Utsav event at NGIT"
+      ],
+      "responses": [
+        "Patang Utsav is one of the exciting events at NGIT, featuring kite-flying and creating a festive atmosphere on campus."
+      ]
+    },
+    {
+      "tag": "model_united_nations",
+      "patterns": [
+        "NGIT Model United Nations",
+        "Describe Model United Nations at NGIT",
+        "Tell me about the Model United Nations event at NGIT"
+      ],
+      "responses": [
+        "Model United Nations is a significant event at NGIT, providing students with a platform to engage in diplomatic simulations and discussions."
+      ]
+    },
+    {
+      "tag": "ngit_evening",
+      "patterns": [
+        "NGIT Evening event",
+        "Describe NGIT Evening",
+        "Tell me about the NGIT Evening event"
+      ],
+      "responses": [
+        "NGIT Evening is a special event on campus, offering a unique and enjoyable experience for students and participants."
+      ]
+    },
+    {
+      "tag": "dandiya_night",
+      "patterns": [
+        "NGIT Dandiya Night",
+        "Describe Dandiya Night at NGIT",
+        "Tell me about the Dandiya Night event at NGIT"
+      ],
+      "responses": [
+        "Dandiya Night is a lively and cultural event at NGIT, bringing students together for a night of traditional dance and celebration."
+      ]
+    },
+    {
+      "tag": "sports_meets",
+      "patterns": [
+        "NGIT Sports Meets",
+        "Describe Sports Meets at NGIT",
+        "Tell me about the Sports Meets at NGIT"
+      ],
+      "responses": [
+        "Sports Meets are an integral part of NGIT's event culture, fostering a spirit of competition and sportsmanship among students."
+      ]
+    },
+    {
+      "tag": "miscellaneous_events",
+      "patterns": [
+        "NGIT Miscellaneous events",
+        "Describe Miscellaneous events at NGIT",
+        "Tell me about the Miscellaneous events at NGIT"
+      ],
+      "responses": [
+        "NGIT hosts various miscellaneous events throughout the year, offering a diverse range of activities and experiences for students."
+      ]
+    },
+    {
+      "tag": "event_participation",
+      "patterns": [
+        "NGIT event participation",
+        "How to participate in NGIT events?",
+        "Tell me about participating in events at NGIT"
+      ],
+      "responses": [
+        "Participating in NGIT events is a great way for students to get involved, showcase their talents, and contribute to the vibrant campus culture."
+      ]
+    },
+    {
+      "tag": "event_engagement",
+      "patterns": [
+        "NGIT event engagement",
+        "How to engage in NGIT events?",
+        "Tell me about engaging in events at NGIT"
+      ],
+      "responses": [
+        "Engaging in NGIT events provides students with memorable experiences, opportunities for social interaction, and a chance to be part of the vibrant campus community."
+      ]
+    },
+    {
+      "tag": "event_opportunities",
+      "patterns": [
+        "NGIT event opportunities",
+        "Opportunities through NGIT events",
+        "Tell me about opportunities provided by events at NGIT"
+      ],
+      "responses": [
+        "NGIT events offer students valuable opportunities for personal growth, skill development, and creating lasting memories during their college journey."
+      ]
+    },
+    {
+      "tag": "research_and_development",
+      "patterns": [
+        "NGIT Research and Development",
+        "R&D initiatives at Neil Gogte Institute of Technology",
+        "Tell me about research and development at NGIT"
+      ],
+      "responses": [
+        "Our college is committed to fostering innovation and pushing the boundaries of knowledge. Our dedicated R&D Department focuses on cutting-edge research, collaboration with industry partners, and the developing of new technologies."
+      ]
+    },
+    {
+      "tag": "extracurricular_activities",
+      "patterns": [
+        "NGIT extracurricular activities",
+        "Extracurricular initiatives at Neil Gogte Institute of Technology",
+        "Tell me about extracurricular activities at NGIT"
+      ],
+      "responses": [
+        "Extracurricular activities play a vital role in a student’s overall development, providing opportunities beyond the classroom to explore interests, develop skills, and build lasting connections."
+      ]
+    },
+    {
+      "tag": "student_clubs",
+      "patterns": [
+        "NGIT student clubs",
+        "Student clubs at Neil Gogte Institute of Technology",
+        "Tell me about student clubs at NGIT"
+      ],
+      "responses": [
+        "Our extracurricular programs include vibrant student clubs, providing avenues for students to explore their interests, from arts and culture to entrepreneurship, environmental sustainability, technology, and community service."
+      ]
+    },
+    {
+      "tag": "collaboration_with_street_cause",
+      "patterns": [
+        "NGIT collaboration with Street Cause",
+        "NGIT volunteering initiatives",
+        "Tell me about NGIT's collaboration with Street Cause"
+      ],
+      "responses": [
+        "Additionally, our collaboration with Street Cause empowers students to engage in volunteering, fundraising, and awareness campaigns, addressing social issues and creating a more inclusive society."
+      ]
+    },
+    {
+      "tag": "apps_at_ngit",
+      "patterns": [
+        "NGIT apps",
+        "Apps at Neil Gogte Institute of Technology",
+        "Tell me about the apps developed by NGIT"
+      ],
+      "responses": [
+        "At our college, we believe in harnessing the power of technology to enhance the student experience and streamline various processes. We have developed a range of innovative apps that cater to the needs of our students, faculty, and parents such as sanjaya,sarathi,drona,ankur and netra."
+      ]
+    },
+    {
+      "tag": "sanjaya_app",
+      "patterns": [
+        "NGIT Sanjaya app",
+        "Describe the Sanjaya app at NGIT",
+        "Tell me about the Sanjaya app at NGIT"
+      ],
+      "responses": [
+        "Sanjaya, our student monitoring app, is a comprehensive platform designed to keep parents informed about their child’s academic progress, attendance, and overall well-being."
+      ]
+    },
+    {
+      "tag": "sarathi_app",
+      "patterns": [
+        "NGIT Sarathi app",
+        "Describe the Sarathi app at NGIT",
+        "Tell me about the Sarathi app at NGIT"
+      ],
+      "responses": [
+        "Sarathi, our bus tracking app, simplifies commuting for our students. With real-time GPS tracking, students can conveniently locate and track their college buses, ensuring a seamless and punctual transportation experience."
+      ]
+    },
+    {
+      "tag": "drona_app",
+      "patterns": [
+        "NGIT Drona app",
+        "Describe the Drona app at NGIT",
+        "Tell me about the Drona app at NGIT"
+      ],
+      "responses": [
+        "Drona, our teaching faculty assistance app, empowers our educators with a range of tools and resources to enhance their teaching methodologies."
+      ]
+    },
+    {
+      "tag": "ankur_app",
+      "patterns": [
+        "NGIT Ankur app",
+        "Describe the Ankur app at NGIT",
+        "Tell me about the Ankur app at NGIT"
+      ],
+      "responses": [
+        "Ankur, our student paperwork app, simplifies administrative tasks for students. It streamlines the paperwork process, reducing manual efforts and ensuring efficient communication between students and college administration."
+      ]
+    },
+    {
+      "tag": "netra_app",
+      "patterns": [
+        "NGIT Netra app",
+        "Describe the Netra app at NGIT",
+        "Tell me about the Netra app at NGIT"
+      ],
+      "responses": [
+        "Netra, our performance-tracking app, provides students with valuable insights into their academic progress and performance."
+      ]
+    },
+    {
+      "tag": "patents_and_publications",
+      "patterns": [
+        "NGIT patents and publications",
+        "Patents and publications at Neil Gogte Institute of Technology",
+        "Tell me about patents and publications at NGIT"
+      ],
+      "responses": [
+        "The faculty at NGIT actively engage in research projects, collaborating with colleagues and industry experts to explore new frontiers in their disciplines. Their research findings are regularly published in esteemed academic journals, allowing them to share their discoveries and insights with the wider scholarly community."
+      ]
+    },
+    {
+      "tag": "faculty_patenting",
+      "patterns": [
+        "NGIT faculty patenting",
+        "Faculty patenting initiatives at NGIT",
+        "Tell me about faculty patenting at NGIT"
+      ],
+      "responses": [
+        "In addition to academic papers, our faculty members also engage in patenting innovative ideas and technologies. They are committed to transforming their research outcomes into practical applications that can make a real-world impact."
+      ]
+    },
+    {
+      "tag": "faculty_scholarship",
+      "patterns": [
+        "NGIT faculty scholarship",
+        "Faculty scholarship at Neil Gogte Institute of Technology",
+        "Tell me about faculty scholarship at NGIT"
+      ],
+      "responses": [
+        "As students at NGIT, you will have the opportunity to learn from these accomplished individuals, benefit from their expertise, and be inspired by their passion for research and innovation."
+      ]
+    },
+    {
+      "tag": "tessellator",
+      "patterns": [
+        "What is Tessellator?",
+        "Describe Tessellator Learning Management System",
+        "Describe the Tessellator Web application",
+        "Share details about the Tessellator interface",
+        "What does the Tessellator Web application look like?",
+        "Features of Tessellator software"
+      ],
+      "responses": [
+        "Tessellator is an in-house developed Learning Management System (LMS) software designed to enhance the educational experience. It includes features like real-time evaluation, immediate feedback, and periodic upgrades based on teacher observations.The Tessellator Web application includes features like Program Submission Report, Telescope Login Page, Student Quiz Report, and Student Activity Page. It provides a user-friendly interface for both teachers and students."
+      ]
+    },
+    {
+      "tag": "tessellator_session",
+      "patterns": [
+        "How long is a typical Tessellator session?",
+        "Describe a Tessellator session",
+        "What happens during a Tessellator session?"
+      ],
+      "responses": [
+        "A typical Tessellator session lasts for 2 hours. It involves the instructor delivering a theoretical concept for 20-30 minutes, followed by a programming task or quiz lasting 5-10 minutes, related to the previously taught topic."
+      ]
+    },
+    {
+      "tag": "tessellator_feedback",
+      "patterns": [
+        "How does Tessellator provide feedback?",
+        "Describe Tessellator's feedback system",
+        "In what way does Tessellator evaluate answers?"
+      ],
+      "responses": [
+        "The Tessellator platform evaluates submitted answers in real time, providing immediate feedback to students. Based on the feedback received, the teacher can decide to reiterate the topic or proceed with further instruction."
+      ]
+    },
+    {
+      "tag": "tessellator_upgrades",
+      "patterns": [
+        "What upgrades has Tessellator undergone?",
+        "Describe the periodic upgrades of Tessellator",
+        "Features incorporated in Tessellator upgrades"
+      ],
+      "responses": [
+        "Tessellator underwent periodic upgrades based on teacher observations, incorporating features such as plagiarism detection, identification of complex areas, and areas where students need further assistance."
+      ]
+    },
+    {
+      "tag": "teaching_methods",
+      "patterns": [
+        "What teaching methods are employed with Tessellator?",
+        "Describe collaborative techniques in Tessellator",
+        "How do teachers stimulate student involvement in Tessellator?"
+      ],
+      "responses": [
+        "Teachers employ collaborative techniques, such as the jigsaw method, to stimulate student involvement in the Tessellator classroom environment."
+      ]
+    },
+    {
+      "tag": "student_progress_monitoring",
+      "patterns": [
+        "How is Tessellator used for monitoring student progress?",
+        "Describe the role of Tessellator in student evaluation",
+        "In what ways does Tessellator evaluate online performance?"
+      ],
+      "responses": [
+        "The Tessellator software platform is utilized for ongoing monitoring of student progress and the evaluation of online performance."
+      ]
+    },
+    {
+      "tag": "foundation_school",
+      "patterns": [
+        "What is Foundation School?",
+        "Describe Foundation School at NGIT",
+        "Purpose of Foundation School"
+      ],
+      "responses": [
+        "Foundation School (FDS) at NGIT focuses on improving and enhancing the coding skills of students in the first and second years. It conducts coding sessions 2 hours/day, thrice a week for the complete semester, alongside regular university classes. FDS aims to lay a solid foundation for students to move into Project School & Finishing School."
+      ]
+    },
+    {
+      "tag": "coding_skills",
+      "patterns": [
+        "Why are coding skills important?",
+        "Importance of coding in the job market",
+        "Role of coding in innovation and problem-solving"
+      ],
+      "responses": [
+        "Coding is an essential skill that has transformed the way we live and work. Its importance in the job market and for innovation and problem-solving cannot be overstated."
+      ]
+    },
+    {
+      "tag": "fds_sessions",
+      "patterns": [
+        "How often are FDS coding sessions conducted?",
+        "Duration of FDS coding sessions",
+        "Faculty mentors in FDS sessions"
+      ],
+      "responses": [
+        "FDS coding sessions are held 2 hours/day, thrice a week for the complete semester. Faculty mentors are available in the class to assist students who need help during these sessions."
+      ]
+    },
+    {
+      "tag": "coding_problems",
+      "patterns": [
+        "What do students do during FDS coding sessions?",
+        "Nature of coding problems in FDS",
+        "How do students hone their coding skills in FDS?"
+      ],
+      "responses": [
+        "During FDS coding sessions, students are given challenging coding problems and are encouraged to solve them. This helps them significantly hone their coding skills using the Tessellator, an in-house developed Learning Management System."
+      ]
+    },
+    {
+      "tag": "fds_foundation",
+      "patterns": [
+        "How does Foundation School contribute to students' development?",
+        "Role of Foundation School in coding education",
+        "Relation of Foundation School with Project School & Finishing School"
+      ],
+      "responses": [
+        "Foundation School lays a solid foundation for students, preparing them to subsequently move into Project School & Finishing School. It plays a crucial role in enhancing coding skills and overall development."
+      ]
+    },
+    {
+      "tag": "project_school",
+      "patterns": [
+        "What is Project School?",
+        "Objective of Project School",
+        "Selection process for Project School"
+      ],
+      "responses": [
+        "Project School is a new initiative that aims to provide students with a well-rounded skill set, including hands-on experience with end-to-end projects and an understanding of the integration of multiple technologies into a single frame."
+      ]
+    },
+    {
+      "tag": "project_school_selection",
+      "patterns": [
+        "How are students selected for Project School?",
+        "Eligibility criteria for Project School",
+        "Selection process based on programming languages"
+      ],
+      "responses": [
+        "Eligibility for Project School is open to all students, with selection based on their performance in a machine test on programming languages. Seats are limited and allotted based on test scores and availability. Once selected, students can form their own teams of 5 members."
+      ]
+    },
+    {
+      "tag": "project_school_resources",
+      "patterns": [
+        "What resources are allocated for Project School projects?",
+        "Venue for Project School",
+        "Review process for Project School"
+      ],
+      "responses": [
+        "To ensure high-quality projects, students are given time and space for discussion and review. The review process includes tasks and reading assignments guiding students through different problem-solving methods. The venue for Project School is the Virtusa Excellence Centre, providing necessary resources and support."
+      ]
+    },
+    {
+      "tag": "project_school_finish_line",
+      "patterns": [
+        "What is the finish line for Project School?",
+        "Number of projects per student",
+        "Objective of completing 4 different projects"
+      ],
+      "responses": [
+        "The aim is for every student in Project School to complete 4 different projects, gaining a strong understanding of the latest technologies and industry practices. The initiative is expected to equip students with the necessary skills and knowledge for high-paying jobs."
+      ]
+    },
+    {
+      "tag": "project_titles",
+      "patterns": [
+        "Titles of some Project School projects",
+        "Details about specific projects",
+        "Domains for Project School projects"
+      ],
+      "responses": [
+        "Some Project School project titles include AutoSurgery, Earth Observatory Data Cube, Command and Control Movements of a Drone using Alexa, FabricRealEstate, SwachCampus, False Data Injection Attacks in IoT, Aves Bird Species Detection, and more."
+      ]
+    },
+    {
+      "tag": "swach_campus",
+      "patterns": [
+        "Details about SwachCampus project",
+        "Objective of SwachCampus project",
+        "Technologies used in SwachCampus"
+      ],
+      "responses": [
+        "SwachCampus is a project focusing on Litter Detection and Reporting System. The objective is to design a responsive mobile application for bird species identification. Technologies used include InceptionV3 Deep Learning Model, Flutter using Dart for frontend, and Firebase as a database."
+      ]
+    },
+    {
+      "tag": "epashudhan",
+      "patterns": [
+        "Details about ePashudhan project",
+        "Objective of ePashudhan project",
+        "Technologies used in ePashudhan"
+      ],
+      "responses": [
+        "ePashudhan is a project for online registration of dairy farmers. It involves a full-stack project done with the MERN stack, including React Native for the user interface, Express.js and Node.js for backend development, and MongoDB as the database."
+      ]
+    },
+    {
+      "tag": "false_data_injection",
+      "patterns": [
+        "Details about False Data Injection attacks project",
+        "Problem statement",
+        "Scope of False Data Injection project"
+      ],
+      "responses": [
+        "False Data Injection Attacks project deals with developing a Predictive Maintenance system using Machine Learning (SVM, kNN, Random Forests, and Logistic Regression using Auto Encoders) to classify the life cycle of a sensor. It addresses the problem of false data injection in IoT and includes technologies like Python, MATLAB, and Django."
+      ]
+    },
+    {
+      "tag": "project_school_process_flow",
+      "patterns": [
+        "Describe the Project School process flow",
+        "Steps involved in Project School",
+        "How Project School operates"
+      ],
+      "responses": [
+        "Project School process involves a selection process starting from the first semester of the second year, completion of one project per semester per student, formation of teams, mentor allocation, and selection of project domains in AI/ML, AWS, Cyber Security, Blockchain, IoT, Unreal, YOLO v4, etc. Weekly project reviews are conducted, and the overall goal is to provide a well-rounded learning experience."
+      ]
+    },
+    {
+      "tag": "project_review",
+      "patterns": [
+        "How are projects reviewed in Project School?",
+        "Frequency of project reviews",
+        "Purpose of project reviews"
+      ],
+      "responses": [
+        "Projects in Project School are reviewed on a weekly basis. The review process includes tasks and reading assignments guiding students through different methods of problem-solving, ensuring successful project completion."
+      ]
+    },
+    {
+      "tag": "project_selection_criteria",
+      "patterns": [
+        "What criteria are considered for selecting projects in Project School?",
+        "How do students choose their projects?",
+        "Project selection process"
+      ],
+      "responses": [
+        "Students in Project School have to select their project domains from options like AI/ML, AWS, Cyber Security, Blockchain, IoT, Unreal, YOLO v4, etc. The selection process is based on the preferences and interests of the students."
+      ]
+    },
+    {
+      "tag": "birds_species_identification",
+      "patterns": [
+        "Details about Birds Species Identification project",
+        "Objective of the Birds Species Identification project",
+        "Technologies used in the Birds Species Identification project"
+      ],
+      "responses": [
+        "Birds Species Identification is a project with the objective to design a responsive mobile application for bird species identification. It uses the InceptionV3 Deep Learning Model, Flutter using Dart for the frontend, and Firebase as a database. The dataset used is BIRDS 450 SPECIES from Kaggle."
+      ]
+    },
+    {
+      "tag": "epashudhan_registration",
+      "patterns": [
+        "Details about ePashudhan project",
+        "Objective of ePashudhan project",
+        "Technologies used in ePashudhan"
+      ],
+      "responses": [
+        "ePashudhan is a mobile application designed for the online registration of dairy farmers producing milk and other livestock products organically. It is a full-stack project done with the MERN stack, including React Native for the user interface, Express.js and Node.js for backend development, and MongoDB as the database."
+      ]
+    },
+    {
+      "tag": "false_data_injection_scope",
+      "patterns": [
+        "Scope of False Data Injection Attacks project",
+        "Predictive Maintenance system",
+        "Phases of False Data Injection project"
+      ],
+      "responses": [
+        "The False Data Injection Attacks project deals with developing a Predictive Maintenance system using Machine Learning (SVM, kNN, Random Forests, and Logistic Regression using Auto Encoders) to classify the life cycle of a sensor. It includes three phases: pre-processing, model training, and classification."
+      ]
+    },
+    {
+      "tag": "false_data_injection_technology_stack",
+      "patterns": [
+        "Technology stack used in False Data Injection Attacks project",
+        "Modules used in False Data Injection project",
+        "Algorithms used in False Data Injection project"
+      ],
+      "responses": [
+        "The technology stack used in the False Data Injection Attacks project includes Python 3.10.0, MATLAB, and Django. Modules used involve Tensorflow, sci-kit-learn, matplotlib, pandas, Numpy, Keras, Seaborn. Algorithms employed are kNN, Logistic Regression, Random Forests, and Autoencoders."
+      ]
+    },
+    {
+      "tag": "finishing_school",
+      "patterns": [
+        "What is NGIT's Finishing School?",
+        "Objective of Finishing School program",
+        "When did Finishing School start?"
+      ],
+      "responses": [
+        "The Finishing School program at NGIT is designed to prepare engineering students for the industry by providing hands-on training and practical skills. It runs concurrently with the BE course and has a duration of two semesters, starting in the 3rd year of the 2nd semester and continuing into the 4th year 1st semester. The program aims to produce industry-ready engineering students."
+      ]
+    },
+    {
+      "tag": "finishing_school_tracks",
+      "patterns": [
+        "What tracks are offered in Finishing School?",
+        "How are tracks in Finishing School chosen?",
+        "Selection process for Finishing School tracks"
+      ],
+      "responses": [
+        "Students in the Finishing School program are given the option to choose from various tracks offered. The selection process involves an examination that tests basic Java programming and SQL skills. Students who perform well on the exam will then be thoroughly trained in Java and SQL."
+      ]
+    },
+    {
+      "tag": "finishing_school_duration",
+      "patterns": [
+        "How long is the Finishing School program?",
+        "When does the Finishing School program start and end?",
+        "Duration of Finishing School"
+      ],
+      "responses": [
+        "The Finishing School program has a duration of two semesters. The first semester begins during the 3rd year of the 2nd semester of the BE course, and the second semester runs during the 4th year 1st semester."
+      ]
+    },
+    {
+      "tag": "finishing_school_start_date",
+      "patterns": [
+        "When did NGIT's Finishing School start?",
+        "Initiation date of Finishing School",
+        "NGIT Finishing School commencement date"
+      ],
+      "responses": [
+        "NGIT's Finishing School started on 3rd June 2019. The first batch graduated in the year 2021. The program is aimed at bridging the industry-academia gap and producing graduates who are well-prepared for the industry."
+      ]
+    },
+    {
+      "tag": "finishing_school_structure",
+      "patterns": [
+        "How is Finishing School structured?",
+        "Concurrent nature of Finishing School",
+        "Difference from other Finishing Schools"
+      ],
+      "responses": [
+        "NGIT's Finishing School is structured to run concurrently with the B.E course. Unlike other Finishing Schools offered after the completion of the Engineering Degree, NGIT's Finishing School is integrated into the regular course, starting in the 3rd year and continuing into the 4th year of the BE program."
+      ]
+    },
+    {
+      "tag": "nfs",
+      "patterns": [
+        "What is Niranthar Finishing School (NFS)?",
+        "Describe NFS",
+        "about nfs",
+        "Purpose of NFS"
+      ],
+      "responses": [
+        "Niranthar Finishing School (NFS) is a weekly coding competition specifically designed for students of NGIT in their first to third years. It takes place on alternate days, every Tuesday, Thursday, and Saturday (TTS). Participants have the opportunity to win cash prizes on a weekly basis."
+      ]
+    },
+    {
+      "tag": "nfs_schedule",
+      "patterns": [
+        "When does NFS take place?",
+        "NFS schedule",
+        "Days of NFS competition"
+      ],
+      "responses": [
+        "NFS takes place on alternate days, every Tuesday, Thursday, and Saturday (TTS). It is a weekly coding competition designed for NGIT students in their first to third years."
+      ]
+    },
+    {
+      "tag": "nfs_prizes",
+      "patterns": [
+        "What prizes are offered in NFS?",
+        "NFS weekly prizes",
+        "Cash prizes in NFS"
+      ],
+      "responses": [
+        "Participants in NFS have the opportunity to win cash prizes on a weekly basis. The coding competition is specifically designed for NGIT students in their first to third years."
+      ]
+    },
+    {
+      "tag": "arjuna",
+      "patterns": [
+        "What is Arjuna?",
+        "Describe Arjuna",
+        "Purpose of Arjuna coding competition"
+      ],
+      "responses": [
+        "Arjuna is a weekly coding competition organized for NGIT students in their 1st to 3rd years. The sessions take place every Sunday and offer three coding challenges to be completed during each session. The solutions to the previous week’s challenges are then discussed using Java during the current session. At the end of each session, new coding activities are introduced for the following week. The top two students from each year at NGIT will receive weekly cash prizes, determined by the fastest submission time."
+      ]
+    },
+    {
+      "tag": "arjuna_schedule",
+      "patterns": [
+        "When does Arjuna take place?",
+        "Arjuna schedule",
+        "Days of Arjuna coding competition"
+      ],
+      "responses": [
+        "Arjuna takes place every Sunday. It is a weekly coding competition organized for NGIT students in their 1st to 3rd years. The sessions involve three coding challenges to be completed during each session."
+      ]
+    },
+    {
+      "tag": "arjuna_prizes",
+      "patterns": [
+        "What prizes are offered in Arjuna?",
+        "Arjuna weekly prizes",
+        "Cash prizes in Arjuna"
+      ],
+      "responses": [
+        "The top two students from each year at NGIT will receive weekly cash prizes in Arjuna. The prizes are determined by the fastest submission time in the coding competition, which takes place every Sunday for students in their 1st to 3rd years."
+      ]
+    },
+    {
+      "tag": "alumni_society",
+      "patterns": [
+        "What is NGIT Parishad Society?",
+        "Describe NGIT Alumni Society",
+        "Purpose of NGIT Parishad Society"
+      ],
+      "responses": [
+        "The NGIT Parishad Society is the official Alumni society of our college. It is one of the several initiatives of NGIT that aims to bring the entire fraternity together through this society for learning opportunities and for passed-out students to relive their college days again."
+      ]
+    },
+    {
+      "tag": "alumni_initiatives",
+      "patterns": [
+        "What initiatives are part of NGIT Parishad Society?",
+        "NGIT Alumni Society initiatives",
+        "Learning opportunities in NGIT Alumni Society"
+      ],
+      "responses": [
+        "NGIT Parishad Society includes several initiatives aimed at brightening the entire fraternity. It provides learning opportunities and allows passed-out students to relive their college days. The society is a platform for continued engagement and connection with the NGIT community."
+      ]
+    },
+    {
+      "tag": "alumni_benefits",
+      "patterns": [
+        "What are the benefits of NGIT Alumni Society?",
+        "Advantages of joining NGIT Parishad Society",
+        "NGIT Alumni Society benefits"
+      ],
+      "responses": [
+        "The NGIT Parishad Society offers benefits such as a platform for learning opportunities, networking, and reliving college days. It aims to bring passed-out students together to strengthen the bond within the NGIT community and foster a sense of camaraderie."
+      ]
+    },
+    {
+      "tag": "incubation_center",
+      "patterns": [
+        "What is NGIT Business Incubation Center?",
+        "Describe Business Incubation Center at NGIT",
+        "Purpose of NGIT Incubation Center"
+      ],
+      "responses": [
+        "The Business Incubation Center of NGIT was started to inculcate and support the spirit of entrepreneurship in our college. NGIT offers full support to student entrepreneurs who have conceived successful ideas or have shown an established record in managing their startups via freelancing or other such experiences."
+      ]
+    },
+    {
+      "tag": "incubation_support",
+      "patterns": [
+        "What support does NGIT provide to student entrepreneurs?",
+        "NGIT Incubation Center support",
+        "Services for startups at NGIT"
+      ],
+      "responses": [
+        "NGIT Business Incubation Center currently has three startups incubated at the Center and has provided the students with office spaces, Internet Connectivity, and supported their endeavors. The support includes resources and infrastructure to foster the growth of startups."
+      ]
+    },
+    {
+      "tag": "thrium_tech",
+      "patterns": [
+        "Tell me about Thrium Tech",
+        "Thrium Tech startup details",
+        "What does Thrium Tech focus on?"
+      ],
+      "responses": [
+        "Thrium Tech is primarily a software solutions firm in the IT industry, with a special focus on Web 3.0. With an unwavering commitment to innovation and a team of brilliant minds, Thrium Tech is revolutionizing the way businesses operate and interact in the digital landscape."
+      ]
+    },
+    {
+      "tag": "the_vybe_media",
+      "patterns": [
+        "Tell me about The Vybe. Media",
+        "The Vybe. Media startup details",
+        "What services does The Vybe. Media offer?"
+      ],
+      "responses": [
+        "The Vybe. Media is a registered digital media and IT company that mainly offers IT solutions and brand development services to newly growing corporations and businesses. The Vybe. Media offers A to Z services that a newly started business requires, starting from their brand identity, their website, to their market strategy, and product design and development."
+      ]
+    },
+    {
+      "tag": "makro_automation_firm",
+      "patterns": [
+        "Tell me about MaKro Automation Firm",
+        "MaKro Automation Firm startup details",
+        "What services does MaKro Automation Firm provide?"
+      ],
+      "responses": [
+        "MaKro Automation firm is a completely bootstrapped startup that offers complete YouTube automation services to YouTubers and other general industrial services such as video editing, content writing, and provision of voice-over artists. Started and run by one student, with over six to seven teams, the firm has a global client base and is growing day by day."
+      ]
+    }
+  ]
+}
