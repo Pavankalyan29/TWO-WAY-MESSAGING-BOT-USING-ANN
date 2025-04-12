@@ -79,5 +79,24 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
 - Expand to regional languages
 - Integrate with institutional databases
 - Develop web dashboard (Flask)
+---
 
+## 💡 Why This Project?
+### Bridging Communication Gaps in Education
+Educational institutions like **Keshav Memorial Group** handle thousands of stakeholder queries daily—from students and parents to faculty and recruiters. Traditional communication methods (emails, notices, or static FAQs) are:
+- Time-consuming for staff
+- Frustrating for users seeking instant answers
+- Limited in tracking engagement
+
+This bot solves these challenges by:
+✅ **Automating 80%+ of routine queries** (admissions, placements, academics)
+✅ **Providing 24/7 instant responses** via natural conversations
+✅ **Capturing interaction analytics** to improve institutional services
+
+### Tech-Driven Stakeholder Engagement
+Unlike basic chatbots, this project:
+🔹 Uses **AI/ANN models** (not just rule-based responses) for contextual understanding
+🔹 **Learns from interactions** to improve future responses
+🔹 **Scalable across departments** with customizable intents
+---
 
