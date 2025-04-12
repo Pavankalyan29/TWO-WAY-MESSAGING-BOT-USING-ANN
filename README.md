@@ -25,7 +25,6 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
 - **Backend**: `Flask` | `NumPy`
 - **NLP**: Tokenization | Stemming | Bag-of-Words
 - **Architecture**: 5-layer Neural Network (128 hidden units)
-
 ---
 
 ## 📦 Installation
