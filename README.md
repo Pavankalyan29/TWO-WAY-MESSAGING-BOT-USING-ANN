@@ -40,4 +40,13 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
    python -c "import nltk; nltk.download('punkt')"
 ---
 
+## 🧠 Training the Model
+1. **Prepare dataset:** Update ```bash intents.json
+
+2. **Train the neural network:**
+   ```bash
+   python train.py
+
+- Trains for 50 epochs (default)
+- Saves model to data.pth
 
