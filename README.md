@@ -89,14 +89,15 @@ Educational institutions like **Keshav Memorial Group** handle thousands of stak
 - Limited in tracking engagement
 
 This bot solves these challenges by:
-✅ **Automating 80%+ of routine queries** (admissions, placements, academics)
-✅ **Providing 24/7 instant responses** via natural conversations
+✅ **Automating 80%+ of routine queries** (admissions, placements, academics)<br>
+✅ **Providing 24/7 instant responses** via natural conversations<br>
 ✅ **Capturing interaction analytics** to improve institutional services
 
 ### Tech-Driven Stakeholder Engagement
 Unlike basic chatbots, this project:
-🔹 Uses **AI/ANN models** (not just rule-based responses) for contextual understanding
-🔹 **Learns from interactions** to improve future responses
+🔹 Uses **AI/ANN models** (not just rule-based responses) for contextual understanding<br>
+🔹 **Learns from interactions** to improve future responses<br>
 🔹 **Scalable across departments** with customizable intents
+
 ---
 
