@@ -51,4 +51,26 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
 - Saves model to `data.pth`
 ---
 
+## 💬 Using the Chatbot
+1. **Start the bot:**
+   ```bash
+   python chat.py
+2. **Sample interaction:**
+   ```bash
+   You: What's NGIT's placement record?
+   KMES_BOT: In the first outgoing batch, around 23 companies visited campus...
+---
 
+## 📂 Project Structure
+    ```bash
+    .
+    ├── train.py             # Model training script
+    ├── chat.py              # Chat interface
+    ├── model.py             # Neural network architecture
+    ├── nltk_utils.py        # NLP functions
+    ├── intents.json         # 500+ training patterns
+    ├── data.pth             # Trained model weights
+    └── requirements.txt
+---
+
+## 🔧 Future Improvements
