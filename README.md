@@ -28,11 +28,16 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
 ---
 
 ## 📦 Installation
-1. Clone repository:
+1. **Clone repository:**
    ```bash
    git clone https://github.com/your-username/two-way-bot.git
    cd two-way-bot
-   
+2. **Install dependencies:**
+   ```bash
+   pip install torch nltk flask numpy
+3. **Download NLTK data:**
+   ```bash
+   python -c "import nltk; nltk.download('punkt')"
 ---
 
 
