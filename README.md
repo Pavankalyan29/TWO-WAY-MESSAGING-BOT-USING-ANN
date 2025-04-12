@@ -74,3 +74,10 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
 ---
 
 ## 🔧 Future Improvements
+- Add voice interface
+- Implement emotion recognition
+- Expand to regional languages
+- Integrate with institutional databases
+- Develop web dashboard (Flask)
+
+
