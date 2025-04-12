@@ -41,7 +41,7 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
 ---
 
 ## 🧠 Training the Model
-1. **Prepare dataset:** Update ```markdown intents.json
+1. **Prepare dataset:** Update <pre>intents.json</pre>
 
 2. **Train the neural network:**
    ```bash
