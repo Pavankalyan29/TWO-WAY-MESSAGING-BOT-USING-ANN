@@ -48,5 +48,7 @@ A conversational AI system designed for **Keshav Memorial Group** to facilitate 
    python train.py
 
 - Trains for 50 epochs (default)
-- Saves model to data.pth
+- Saves model to `data.pth`
+---
+
 
